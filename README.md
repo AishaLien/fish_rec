@@ -1,4 +1,3 @@
-# fish_rec
-Fish Recognition
+# Fish Recognition
 
-# data collection
+## data collection
