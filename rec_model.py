@@ -97,13 +97,8 @@ cross_entropy=tf.reduce_mean(
 train_step=tf.train.AdamOptimizer(1e-4).minimize(cross_entropy)
 
 sess=tf.Session()
-sess.run(tf.global_variables_initializer())
+result = sess.run(tf.global_variables_initializer())
 
-for i in range(1000):
-    batch_xs,batch_ys = mnist.train.next_batch(100)
-    sess.run(train_step,feed_dict={xs:batch_xs,ys:batch_ys})
-    if i%50 == 0:
-        print(compute_accuracy(mnist.test.images, mnist.test.tabels))
 
 #sess=tf.Session()
 # tf.initialize_all_variables() 这种写法马上就要被废弃
