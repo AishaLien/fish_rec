@@ -1,0 +1,2015 @@
+
+
+
+<!DOCTYPE html>
+<html lang="nl">
+
+	<head>
+	
+	    
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MF2PQHS');</script>
+<!-- End Google Tag Manager -->
+
+     	<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+	    <meta http-equiv="Cache-control" content="public">
+		<meta name="referrer" content="origin">
+	
+		<title>Wonen.nl - De beste ideeën voor je huis en inrichting</title>
+	    <meta name="description" content="Wonen.nl biedt je inspiratie voor verbouwen en inrichten: tips, trends, praktische info, sfeerbeelden, laatste woonnieuws en uitgebreide productinfo." />
+		<link rel="icon" type="image/png" href="/img/FaviconWONENnl.png">
+
+		
+		<!-- Bootstrap core CSS -->
+		<link href="/dist/css/bootstrap.css" rel="stylesheet">
+		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Bitter:400,400i,700|Roboto:400,400i,700" rel="stylesheet">
+		<!-- Custom styles for this template -->
+
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/tagmanager/3.0.2/tagmanager.min.css">
+		<link href="/wonen.css" rel="stylesheet">
+		<link href="/wicons.css" rel="stylesheet">
+
+
+		<script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script  src="/dist/js/bootstrap.min.js"></script>
+
+		<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+				var gads = document.createElement('script');
+				gads.async = true;
+				gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
+
+		<script>
+			googletag.cmd.push(function() {
+				googletag.defineSlot('/421482288/wonen_rectangle_1', [300, 250], 'div-gpt-ad-1505474055554-0').addService(googletag.pubads());
+				googletag.defineSlot('/421482288/wonen_rectangle_2', [300, 250], 'div-gpt-ad-1505474055554-1').addService(googletag.pubads());
+				googletag.defineSlot('/421482288/wonen_rectangle_3', [300, 250], 'div-gpt-ad-1505474055554-2').addService(googletag.pubads());
+				googletag.defineSlot('/421482288/wonen_rectangle_4', [300, 250], 'div-gpt-ad-1505474055554-3').addService(googletag.pubads());
+				googletag.defineSlot('/421482288/wonen_rectangle_5', [300, 250], 'div-gpt-ad-1505474055554-4').addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest();
+				googletag.enableServices();
+			});
+		</script>
+
+	</head>
+
+<body>
+	
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MF2PQHS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="mobile-nav-filler">
+</div>
+<nav class="navbar navbar-default " role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" style="margin-left:15px;">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			</button>
+			<ul class="nav navbar-nav navbar-right visible-xs-wonen hide-mobile-s hide-mobile-m" style="float:right;">
+								<ul class="nav navbar-nav">
+					<li><button class="btn btn-profil navbar-btn" data-toggle="modal" data-target="#aanmelden-modal" id="modal-launcher">Aanmelden</button></li>
+				</ul>
+							</ul>
+			<a class="navbar-brand" href="/"><img src="/img/WONENnl-logo-205x58.png" height="30px" alt="Wonen.nl" title="Wonen.nl" style="opacity: 1;"></a>
+		</div>
+		<div id="navbar" class="navbar-collapse collapse" style="overflow-x: hidden;">
+			<div class="row">
+				<div class="col-xs-12 col-sm-2 col-md-3">
+					<a class="navbar-brand hide-mobile" href="/"><img src="/img/WONENnl-logo-205x58.png" height="30px" alt="Wonen.nl" title="Wonen.nl" style="opacity: 1;"></a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-6">
+					<form class="navbar-form" role="search" action="/zoeken">
+						<div class="input-group" style="width:100%;">
+							<div id="multiple-datasets" style="width:100%;">
+								<input class="typeahead" type="text" name="q" placeholder="Waar ben je naar op zoek?">
+							</div>
+							<div class="input-group-btn" style="width:1px;">
+								<button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+							</div>
+						</div>
+					</form>
+				</div>
+				<div class="col-xs-12 col-sm-4 col-md-3">
+					<ul class="nav navbar-nav navbar-right show-mobile-s show-mobile-m">
+												<ul class="nav navbar-nav">
+							<li><button class="btn btn-profil navbar-btn" data-toggle="modal" data-target="#aanmelden-modal" id="modal-launcher">Aanmelden</button></li>
+							<li><button class="btn btn-profil2 navbar-btn" data-toggle="modal" data-target="#login-modal" id="modal-launcher">Inloggen</button></li>
+						</ul>
+											</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<ul class="nav navbar-nav  submenu">
+						<li><a href="/">HOME</a></li>
+						<li><a href="/nieuws">NIEUWS</a></li>
+						<li><a href="/inspiratie">INSPIRATIE</a></li>
+						<li><a href="/blog">BLOG</a></li>
+						<li><a href="/professionals">PROFESSIONALS</a></li>
+						<li><a href="/handige-tools">SPECIALS</a></li>
+						<li><a href="/magazine">MAGAZINE</a></li>
+					</ul>
+				</div>
+			</div>
+		</div><!--/.nav-collapse -->
+	</div><!-- /.container -->
+</nav>   
+
+	
+<div id="cookie-disclaimer">
+	<div class="container">
+		WONEN.nl gebruikt cookies om het gebruik van de website te analyseren en het gebruikersgemak te verbeteren <a href="/privacy">Lees meer over cookies en privacybeleid.</a>
+		<button id="closeCookie" class="btn btn-wonen" style="padding:1px 6px;margin:0;">
+			Ik begrijp het
+		</button>
+	</div>
+</div>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tagmanager/3.0.2/tagmanager.min.js"></script>
+<script type="text/javascript" src="https://www.wonen.nl/js/wheel.js"></script>
+<script type="text/javascript" src="https://www.wonen.nl/js/typeahead_bundle.js"></script>
+<script type="text/javascript" src="https://www.wonen.nl/js/masonry.pkgd.js"></script>		
+
+
+<div id="hero-image">
+	<img src="/img/WONENnl-logo-hero.png">
+	<div class="hero-image-bron">
+		Foto: Solarlux
+	</div>
+</div> 
+  
+<style>
+.rwrapper{padding: 5px;}
+
+.nopad{padding:0px;}
+.rfooter{background: #f1f3f5;border-top: 1px #ebebeb solid;width: 100%;padding:10px 15px}
+
+.netbinnen{padding:10px;text-align:center;}
+
+
+</style>
+<div class="home-intro-wrapper">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 home-intro-head">
+				<h1>MAAK VAN JE HUIS JOUW DROOMHUIS!</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-3 col-xs-12">
+				<div class="home-intro">
+					<h1>JE HOMEPAGE PERSONALISEREN?</h1>
+				</div>
+			</div>
+			<div class="col-md-3 col-xs-12">
+				<div class="home-intro">
+					<h1>EENVOUDIG COLLECTIES MAKEN?</h1>
+				</div>
+			</div>
+			<div class="col-md-3 col-xs-12">
+				<div class="home-intro">
+					<h1>ONZE HANDIGE BLOGS LEZEN?</h1>
+				</div>
+			</div>
+			<div class="col-md-3 col-xs-12">
+				<div class="home-intro">
+					<h1>PROFESSIONALS IN DE BUURT VINDEN?</h1>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12">
+				<center>
+					<button class="home-intro-cta-btn" data-toggle="modal" data-target="#aanmelden-modal" id="modal-launcher">Maak een profiel aan</button>
+				</center>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="col-md-8 col-xs-12">
+	    <div class="row"> 
+				<div class="col-xs-12">
+					<div id="heading"> 
+						<span style="text-transform:uppercase;">Laatste Nieuws</span>
+					</div>
+				</div>
+				<div class="col-xs-12">
+					<div class="row laatste-nieuws-container">
+											<div class="col-sm-6 col-xs-12 mob-lig-50">
+							<div class="laatste-nieuws-1">
+								<a href=""><span class="link-spanner"></span></a>
+								<div class="row" style="height:100%;">
+									<div class="col-xs-12" style="height:75%;">
+										<div class="img-4-3-ratio-container rounded-t">
+											<div class="img-4-3-ratio">
+												<img src="https://www.wonen.nl/images/1745/2018-04/w2_vaste-lasten-woning.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-xs-12 laatste-nieuws-1_t">
+										<h1>
+											Besparen op de vaste lasten van je woning										</h1>
+										<span>
+											21 Mei 2018										</span>
+									</div>
+								</div>
+							</div>
+						</div>
+												<div class="col-sm-6 col-xs-12 mob-lig-50">
+							<div class="laatste-nieuws-2-4">
+								<a href="/badkamer/badmeubel/nieuws/primabad-custom-made"><span class="link-spanner"></span></a>
+								<div class="v-center" style="height:100%;">
+									<div class="col-xs-4" style="padding-right:0px;">
+										<div class="img-4-3-ratio-container rounded">
+											<div class="img-4-3-ratio">
+												<img class="rounded" src="https://www.wonen.nl/images/1745/2018-05/w2_Primabad-badmeubel-Coast-CustomMade.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-xs-8">
+										<h1>
+											Primabad Custom made										</h1>
+										<span>
+											21 Mei 2018										</span>
+									</div>
+								</div>
+							</div>
+						</div>
+												<div class="col-sm-6 col-xs-12 mob-lig-50">
+							<div class="laatste-nieuws-2-4">
+								<a href="/badkamer/verwarming/nieuws/knuffelwand"><span class="link-spanner"></span></a>
+								<div class="v-center" style="height:100%;">
+									<div class="col-xs-4" style="padding-right:0px;">
+										<div class="img-4-3-ratio-container rounded">
+											<div class="img-4-3-ratio">
+												<img class="rounded" src="https://www.wonen.nl/images/1745/2018-05/w2_Badkamewandverwarming-De-knuffelwand.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-xs-8">
+										<h1>
+											Knuffelwand										</h1>
+										<span>
+											21 Mei 2018										</span>
+									</div>
+								</div>
+							</div>
+						</div>
+												<div class="col-sm-6 col-xs-12 mob-lig-50">
+							<div class="laatste-nieuws-2-4">
+								<a href="/energie-verwarming/vloerverwarming/nieuws/click-en-go-vloer-–wand-en-plafondklimaatsysteem-schoon-efficient-en-duurzaam"><span class="link-spanner"></span></a>
+								<div class="v-center" style="height:100%;">
+									<div class="col-xs-4" style="padding-right:0px;">
+										<div class="img-4-3-ratio-container rounded">
+											<div class="img-4-3-ratio">
+												<img class="rounded" src="https://www.wonen.nl/images/1745/2018-05/w2_havobol-vloer-click-en-go.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-xs-8">
+										<h1>
+											Click & Go vloer –wand en plafondklimaatsysteem: schoon, efficiënt en duurzaam.										</h1>
+										<span>
+											21 Mei 2018										</span>
+									</div>
+								</div>
+							</div>
+						</div>
+												<div class="col-sm-6 col-xs-12 mob-lig-50">
+							<div class="toon-meer-link">
+								<a href="/nieuws"><span class="link-spanner"></span></a>
+								<div class="v-center" style="height:100%;">
+									<h1>
+										MEER NIEUWS <i class="fa fa-arrow-right"></i>
+									</h1>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-xs-12">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="row"> 
+						<div class="col-sm-12">
+							<div id="heading"> 
+								<span>ONTDEKKEN</span>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+	<div class="col-sm-12">
+		<div class="relative">
+			<div id="ontdekken_hoofd" style="display:flex; flex-wrap:wrap;padding: 0px;">
+				<a href="/baby-kinderkamer" class="tag-cat" data-id="90879"><span>Baby- & Kinderkamer</span></a><a href="/badkamer" class="tag-cat" data-id="6978"><span>Badkamer</span></a><a href="/bouwen" class="tag-cat" data-id="90944"><span>Bouwen</span></a><a href="/energie-verwarming" class="tag-cat" data-id="10296"><span>Energie & Verwarming</span></a><a href="/haard-kachel" class="tag-cat" data-id="10094"><span>Haard & Kachel</span></a><a href="/keuken" class="tag-cat" data-id="6979"><span>Keuken</span></a><a href="/meubels" class="tag-cat" data-id="10091"><span>Meubels</span></a><a href="/serre-overkapping" class="tag-cat" data-id="10077"><span>Serre & Overkapping</span></a><a href="/slaapkamer" class="tag-cat" data-id="10087"><span>Slaapkamer</span></a><a href="/tuin" class="tag-cat" data-id="6981"><span>Tuin</span></a><a href="/verbouwen" class="tag-cat" data-id="7811"><span>Verbouwen</span></a><a href="/vloer" class="tag-cat" data-id="10089"><span>Vloer</span></a><a href="/wellness-zwembad" class="tag-cat" data-id="10078"><span>Wellness & Zwembad</span></a><a href="/woonkamer" class="tag-cat" data-id="10130"><span>Woonkamer</span></a>			</div>
+		</div>
+	</div>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-8 col-sm-12">
+			<div class="row"> 
+				<div class="col-sm-12">
+					<div id="heading"> 
+						<span>BLOG</span>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+							<div class="col-xs-6">
+					<div id="aanbevolen" class="rounded" style="height:100%">
+						<a href="/verbouwen/deuren/nieuws/de-allermooiste-binnendeuren-vind-je-hier-"><span class="link-spanner"></span></a>
+						<div class="row v-center" id="" style="height:75%;">
+							<div class="col-xs-12">
+								<div class="img-4-3-ratio-container rounded-t">
+									<div class="img-4-3-ratio">
+										<img class="rounded-t img-cover" style="min-height:100%;max-height:100%;"src="https://www.wonen.nl/images/1745/000Sandra/w2_000-sfeerbeeld-binnendeur-Skantrae.jpg">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row v-center">
+							<div class="col-xs-12 v-center" style="height:90px; flex-direction:column;">
+								<h1>
+									De allermooiste binnendeuren vind je hier! 								</h1>
+								<p class="auteur">
+									Sandra van Koningshoven								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="col-xs-6">
+					<div id="aanbevolen" class="rounded" style="height:100%">
+						<a href="/tuin/tuinmeubelen/nieuws/tuintrend-4-op-deze-7-supergezellige-tuinbankjes-wil-iedereen-wel-zitten"><span class="link-spanner"></span></a>
+						<div class="row v-center" id="" style="height:75%;">
+							<div class="col-xs-12">
+								<div class="img-4-3-ratio-container rounded-t">
+									<div class="img-4-3-ratio">
+										<img class="rounded-t img-cover" style="min-height:100%;max-height:100%;"src="https://www.wonen.nl/images/1745/000Sandra/w2_tuinbank-MuurBank.jpg">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row v-center">
+							<div class="col-xs-12 v-center" style="height:90px; flex-direction:column;">
+								<h1>
+									Tuintrend 4: op deze 7 supergezellige tuinbankjes wil iedereen wel zitten								</h1>
+								<p class="auteur">
+									Sandra van Koningshoven								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="col-xs-6">
+					<div id="aanbevolen" class="rounded" style="height:100%">
+						<a href="/verbouwen/trap/nieuws/je-trap-renoveren-in-vijf-stappen"><span class="link-spanner"></span></a>
+						<div class="row v-center" id="" style="height:75%;">
+							<div class="col-xs-12">
+								<div class="img-4-3-ratio-container rounded-t">
+									<div class="img-4-3-ratio">
+										<img class="rounded-t img-cover" style="min-height:100%;max-height:100%;"src="https://www.wonen.nl/images/1745/2018-05/w2_traprenovatie-kun-je-zelf-1.jpg">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row v-center">
+							<div class="col-xs-12 v-center" style="height:90px; flex-direction:column;">
+								<h1>
+									Je trap renoveren in vijf stappen								</h1>
+								<p class="auteur">
+									Guido van Loon								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="col-xs-6">
+					<div id="aanbevolen" class="rounded" style="height:100%">
+						<a href="/woonkamer/woonaccessoire/nieuws/diy-bungee-xl-hondenmand-of-kattenmand"><span class="link-spanner"></span></a>
+						<div class="row v-center" id="" style="height:75%;">
+							<div class="col-xs-12">
+								<div class="img-4-3-ratio-container rounded-t">
+									<div class="img-4-3-ratio">
+										<img class="rounded-t img-cover" style="min-height:100%;max-height:100%;"src="https://www.wonen.nl/images/1745/000Sandra/w2_000-Bungee-Honden-of-katten-mand-haken-DIY-zelf-maken.jpg">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row v-center">
+							<div class="col-xs-12 v-center" style="height:90px; flex-direction:column;">
+								<h1>
+									DIY Bungee XL hondenmand of kattenmand								</h1>
+								<p class="auteur">
+									Sandra van Koningshoven								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="col-xs-6">
+					<div id="aanbevolen" class="rounded" style="height:100%">
+						<a href="/woonkamer/woonaccessoire/nieuws/hier-word-je-heel-zomers-van-12-supertoffe-hebbedingen-met-flamingos"><span class="link-spanner"></span></a>
+						<div class="row v-center" id="" style="height:75%;">
+							<div class="col-xs-12">
+								<div class="img-4-3-ratio-container rounded-t">
+									<div class="img-4-3-ratio">
+										<img class="rounded-t img-cover" style="min-height:100%;max-height:100%;"src="https://www.wonen.nl/images/1745/000Sandra/w2_000-flamino-zomer-accessoires.jpg">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row v-center">
+							<div class="col-xs-12 v-center" style="height:90px; flex-direction:column;">
+								<h1>
+									Hier word je heel zomers van: 12 supertoffe hebbedingen met flamingo's								</h1>
+								<p class="auteur">
+									Sandra van Koningshoven								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="col-xs-6">
+					<div id="aanbevolen" class="rounded" style="height:100%">
+						<a href="/verbouwen/verf-behang/nieuws/hoe-moet-je-behangen"><span class="link-spanner"></span></a>
+						<div class="row v-center" id="" style="height:75%;">
+							<div class="col-xs-12">
+								<div class="img-4-3-ratio-container rounded-t">
+									<div class="img-4-3-ratio">
+										<img class="rounded-t img-cover" style="min-height:100%;max-height:100%;"src="https://www.wonen.nl/images/1745/2018-05/w2_Behangen-Bison.jpg">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row v-center">
+							<div class="col-xs-12 v-center" style="height:90px; flex-direction:column;">
+								<h1>
+									Hoe moet je behangen?								</h1>
+								<p class="auteur">
+									Guido van Loon								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="col-xs-6">
+					<div id="aanbevolen" class="rounded" style="height:100%">
+						<a href="/slaapkamer/dekbedovertrek/nieuws/pas-je-dekbedovertrek-aan-het-seizoen-aan"><span class="link-spanner"></span></a>
+						<div class="row v-center" id="" style="height:75%;">
+							<div class="col-xs-12">
+								<div class="img-4-3-ratio-container rounded-t">
+									<div class="img-4-3-ratio">
+										<img class="rounded-t img-cover" style="min-height:100%;max-height:100%;"src="https://www.wonen.nl/images/1745/2018-04/w2_dekbedovertrek-zomer-1.jpg">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row v-center">
+							<div class="col-xs-12 v-center" style="height:90px; flex-direction:column;">
+								<h1>
+									Pas je dekbedovertrek aan het seizoen aan								</h1>
+								<p class="auteur">
+									Guido van Loon								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="col-xs-6">
+					<div id="aanbevolen" class="rounded" style="height:100%">
+						<a href="/serre-overkapping/terrasoverkapping/nieuws/optimaal-genieten-van-het-buiten-zijn"><span class="link-spanner"></span></a>
+						<div class="row v-center" id="" style="height:75%;">
+							<div class="col-xs-12">
+								<div class="img-4-3-ratio-container rounded-t">
+									<div class="img-4-3-ratio">
+										<img class="rounded-t img-cover" style="min-height:100%;max-height:100%;"src="https://www.wonen.nl/images/1745/2018-04/w2_Terrasoverkapping-zonwering-1.jpg">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row v-center">
+							<div class="col-xs-12 v-center" style="height:90px; flex-direction:column;">
+								<h1>
+									Optimaal genieten van het buiten zijn								</h1>
+								<p class="auteur">
+									Guido van Loon								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="col-xs-12">
+					<div class="toon-meer-link">
+						<a href="/blog"><span class="link-spanner"></span></a>
+						<div class="v-center" style="height:100%;">
+							<h1>
+								MEER BLOGS <i class="fa fa-arrow-right"></i>
+							</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-4 col-xs-12">
+			<div class="row"> 
+				<div class="col-xs-12">
+					<div id="heading"> 
+						<span>BEST BEKEKEN</span>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+								<div class="col-xs-12">
+					<div id="laatste-nieuws2more" class="rounded">
+						<a href="/woonkamer/meubels/nieuws/je-meubels-een-nieuwe-look-geven-hier-vind-je-tips"><span class="link-spanner"></span></a>
+						<div class="v-center">
+							<div style="width:50%;">
+								<div class="img-4-3-ratio-container rounded-l">
+									<div class="img-4-3-ratio">
+										<img src="https://www.wonen.nl/images/1745/press_2013/w2_meubels-opknappen-groene-tafel-1-bron_vtwonen_nl.jpg">
+									</div>
+								</div>
+							</div>
+							<div style="width:50%; padding:0px 15px;text-align:left;">
+								<h1>
+									1. Je meubels een nieuwe look geven? Hier vind je tips!								</h1>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="col-xs-12">
+					<div id="laatste-nieuws2more" class="rounded">
+						<a href="/keuken/achterwand/kwaliteit"><span class="link-spanner"></span></a>
+						<div class="v-center">
+							<div style="width:50%;">
+								<div class="img-4-3-ratio-container rounded-l">
+									<div class="img-4-3-ratio">
+										<img src="https://www.wonen.nl/images/887919/./w2_Witte glazen achterwand.jpg">
+									</div>
+								</div>
+							</div>
+							<div style="width:50%; padding:0px 15px;text-align:left;">
+								<h1>
+									2. Kwaliteit in glas								</h1>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="col-xs-12">
+					<div id="laatste-nieuws2more" class="rounded">
+						<a href="/vloer/pvc-vinyl/nieuws/woonmode-de-grootste-woonwinkel-in-complete-woninginrichting"><span class="link-spanner"></span></a>
+						<div class="v-center">
+							<div style="width:50%;">
+								<div class="img-4-3-ratio-container rounded-l">
+									<div class="img-4-3-ratio">
+										<img src="https://www.wonen.nl/images/1745/2018-05/w2_woonmode-rijswijk-coretec.jpg">
+									</div>
+								</div>
+							</div>
+							<div style="width:50%; padding:0px 15px;text-align:left;">
+								<h1>
+									3. Woonmode, de grootste woonwinkel in complete woninginrichting								</h1>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="col-xs-12">
+					<div id="laatste-nieuws2more" class="rounded">
+						<a href="/woonkamer/verlichting/nieuws/maak-zelf-een-lichtplan-en-plaats-verlichting-op-de-juiste-plek"><span class="link-spanner"></span></a>
+						<div class="v-center">
+							<div style="width:50%;">
+								<div class="img-4-3-ratio-container rounded-l">
+									<div class="img-4-3-ratio">
+										<img src="https://www.wonen.nl/images/1745/w2_fertility-design-lichtplan-algemeen.jpeg">
+									</div>
+								</div>
+							</div>
+							<div style="width:50%; padding:0px 15px;text-align:left;">
+								<h1>
+									4. Zelf een lichtplan maken: plaats verlichting op de juiste plek								</h1>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="col-xs-12">
+					<div id="laatste-nieuws2more" class="rounded">
+						<a href="/woonkamer/verlichting/nieuws/verlichting-in-je-woonkamer-tips-en-trucs"><span class="link-spanner"></span></a>
+						<div class="v-center">
+							<div style="width:50%;">
+								<div class="img-4-3-ratio-container rounded-l">
+									<div class="img-4-3-ratio">
+										<img src="https://www.wonen.nl/images/1745/2018-04/w2_sfeerverlichting-woonkamer-tips.jpg">
+									</div>
+								</div>
+							</div>
+							<div style="width:50%; padding:0px 15px;text-align:left;">
+								<h1>
+									5. Verlichting in je woonkamer: tips en trucs								</h1>
+							</div>
+						</div>
+					</div>
+				</div>
+							</div>
+			<div class="row"> 
+				<div class="col-xs-12">
+					<div id="heading"> 
+						<span>VOLG ONS</span>
+					</div>
+				</div>
+			</div>
+			<div class="row" style="margin-top:10px;"> 
+				<div class="col-sm-12">
+					<div class="row">
+						<div class="col-sm-12">						
+							<div class="row">	
+								<ul class="social-nav v-center">
+									<li><a href="https://www.facebook.com/wonen.nl/" target="_blank" title="Facebook" rel="nofollow" class="facebook"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="https://twitter.com/wonennl?lang=nl" target="_blank" title="Twitter" rel="nofollow" class="twitter"><i class="fa fa-twitter"></i></a></li>
+										<li><a href="https://www.instagram.com/wonennl/" target="_blank" title="Instagram" rel="nofollow" class="instagram"><i class="fa fa-instagram"></i></a></li>
+										<li><a href="https://nl.pinterest.com/wonennl/" target="_blank" title="Pinterest" rel="nofollow" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
+										<li><a href="https://plus.google.com/+wonennl" target="_blank" title="Google plus" rel="nofollow" class="google"><i class="fa fa-google-plus"></i></a></li>        
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row"> 
+				<div class="col-sm-12 v-center">
+					<div style="margin-top:10px;margin-bottom:5px;">
+						
+					</div>
+				</div>
+			</div>
+			<div class="row"> 
+				<div class="col-sm-12">
+					<div class="v-center">
+												<button type="button" class="btn btn-profil" data-toggle="modal" data-target="#login-modal" id="modal-launcher">Nieuwsbrief ontvangen?</button>
+											</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 hidden-sm" style="text-align:center;margin:15px 0px;">
+					<span style="text-align:center;color:#777;font-size:10px;">Advertentie</span>
+				</div>
+			</div>
+			<div class="v-center hidden-sm">
+					
+						<!-- /421482288/wonen_rectangle_1 -->
+						<div id='div-gpt-ad-1505474055554-0' style='height:250px; width:300px;'>
+						<script>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1505474055554-0'); });
+						</script>
+						</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 hidden-sm" style="text-align:center;margin:15px 0px;">
+					<span style="text-align:center;color:#777;font-size:10px;">Advertentie</span>
+				</div>
+			</div>
+			<div class="v-center hidden-sm">
+					
+					<!-- /421482288/wonen_rectangle_2 -->
+					<div id='div-gpt-ad-1505474055554-1' style='height:250px; width:300px;'>
+					<script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1505474055554-1'); });
+					</script>
+					</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+			
+<div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header login_modal_header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2 id="myModalLabel">Inloggen WONEN.nl</h2>
+				<h4>MAAK VAN JE HUIS JOUW DROOMHUIS!</h4>
+			</div>
+			<div class="modal-body login-modal">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="well" style="padding-bottom:10px;">
+							<form role="form" method="GET" action="/socials/auth/login.php">
+								<div class="row">
+									<div class="col-xs-12">
+										<div class="form-group">
+											<label for="username" class="control-label">E-mailadres</label>
+											<input type="text" class="form-control" name="email" value="" required title="Geef uw email adres" placeholder="Geef uw e-mail adres">
+											<span class="help-block"></span>
+										</div>
+										<div class="form-group">
+											<label for="password" class="control-label">Wachtwoord</label>
+											<input type="password" class="form-control" name="password" placeholder="" value="" required="" title="Wachtwoord">
+											<span class="help-block"></span>
+											<a data-toggle="modal" data-target="#wwvergeten-modal" data-dismiss="modal" id="modal-launcher">Wachtwoord vergeten?</a>
+											
+										</div>
+									</div>
+								</div>
+								<div class="row"> 
+									<div class="col-xs-12">
+										<input type="hidden" name="app" value="man">
+										<button type="submit" value="login" name="submit" class="home-intro-cta-btn" style="width: 100%; font-size: 14px; margin-bottom:0px;">
+											Inloggen
+										</button>
+									</div>
+									<div class="col-xs-12" style="margin-top: 10px;">
+										<center>
+											of
+										</center>
+									</div>
+									<div class="col-xs-12">
+										<ul class="list-unstyled list-social">
+											<li style="margin-top:10px;">
+												<a href="/socials/auth/login.php?app=facebook" class="btn btn-primary btn-block">
+													<i class="fa fa-facebook"></i>
+													<span class="">Inloggen met Facebook</span>
+												</a>
+											</li>
+									<!--		<li style="margin-top:10px;">
+												<a href="/v6/socials/auth/login.php?app=twitter" class="btn btn-lg btn-default btn-block">
+													<i class="fa fa-twitter"></i>
+													<span class="">Twitter</span>
+												</a>
+											</li>  -->
+										</ul>
+										<center>
+									</div>
+									<div class="col-xs-12"style="margin-bottom:10px;">
+										<a data-toggle="modal" data-target="#aanmelden-modal" data-dismiss="modal" id="modal-launcher">Nog geen account? Aanmelden.</a>
+									</div>
+									<div class="col-xs-12" style="border-top:1px solid #ddd;padding-top:10px;">
+										
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer login_modal_footer">
+				Door aan te melden of in te loggen, stem ik in met het <a target="_blank"href="/privacy">Privacy & Cookiebeleid</a> van WONEN.nl.
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+	
+	
+<div class="modal fade" id="wwvergeten-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header aanmelden_modal_header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2 id="myModalLabel">Wachtwoord vergeten</h2>
+				
+			</div>
+			<div class="modal-body aanmelden-modal">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="well">
+						    <form id="wwvergeten">
+								<div class="row">
+									<div class="col-xs-12" style="margin-top: 10px;">
+										
+										<div class="form-group">
+											<label for="username" class="control-label statusMsg">E-mailadres</label> 
+											<input type="text" class="form-control" name="email" value="" required title="Geef je e-mailadres" placeholder="Geef je e-mailadres">
+											<span class="help-block"></span>
+										</div>
+										
+									</div>
+								</div>	
+								<div class="row">
+									<div class="col-xs-12">
+										<input type="hidden" name="app" value="man">
+										<button type="submit" value="login" name="submit" class="home-intro-cta-btn" style="width: 100%; font-size: 14px; margin-bottom:0px;">
+											versturen
+										</button>
+									</div>
+																		
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer aanmelden_modal_footer">
+				Door aan te melden of in te loggen, stem ik in met het <a target="_blank"href="/privacy">Privacy & Cookiebeleid</a> van WONEN.nl.
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>	
+
+
+	
+	
+	
+	
+	
+	
+<div class="modal fade" id="aanmelden-modal-1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header aanmelden_modal_header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2 id="myModalLabel">Aanmelden bij WONEN.nl</h2>
+				<h4>MAAK VAN JE HUIS JOUW DROOMHUIS!</h4>
+			</div>
+			<div class="modal-body aanmelden-modal">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="well">
+								<div class="row">
+									<div class="col-xs-12" style="margin-top: 10px;">
+										
+									</div>
+									<div class="col-xs-12">
+										<ul class="list-unstyled list-social">
+											<li style="margin-top:10px;">
+												<a href="/socials/auth/login.php?app=facebook" class="btn btn-primary btn-block">
+													<span class=""><i class="fa fa-facebook"></i> Aanmelden met Facebook</span>
+												</a>
+											</li>
+									<!--		<li style="margin-top:10px;">
+												<a href="/v6/socials/auth/login.php?app=twitter" class="btn btn-lg btn-default btn-block">
+													<i class="fa fa-twitter"></i>
+													<span class="">Twitter</span>
+												</a>
+											</li>  -->
+										</ul>
+										<center>
+									</div>
+									<div class="col-xs-12">
+										<a data-toggle="modal" data-target="#login-modal" data-dismiss="modal" id="modal-launcher">Al een account? Inloggen.</a>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer aanmelden_modal_footer">
+				Door aan te melden of in te loggen, stem ik in met het <a target="_blank"href="/privacy">Privacy & Cookiebeleid</a> van WONEN.nl.
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+
+
+<div class="modal fade" id="aanmelden-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header aanmelden_modal_header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2 id="myModalLabel">Aanmelden bij WONEN.nl</h2>
+				<h4>MAAK VAN JE HUIS JOUW DROOMHUIS!</h4>
+			</div>
+			<div class="modal-body aanmelden-modal">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="well">
+							<form role="form" id="form-aanmelden-modal" method="POST" >
+								<div class="row">
+									<div class="col-xs-12">
+										<div class="form-group">
+											<label for="e-mail" class="control-label">E-mailadres</label>
+											<input type="text" class="form-control" name="email" value="" required title="E-mailadres" placeholder="E-mailadres" autocomplete="off">
+											<span class="help-block"></span>
+										</div>
+										<div class="form-group">
+											<label for="password" class="control-label">Wachtwoord</label>
+											<input type="password" class="form-control" name="password" placeholder="Wachtwoord" value="" required title="Wachtwoord" autocomplete="off">
+											<span class="help-block"></span>
+										</div>
+										<div class="form-group">
+											<label for="password_confirm" class="control-label">Wachtwoord herhalen</label>
+											<input type="password" class="form-control" name="password_confirm" placeholder="Wachtwoord herhalen" value="" required title="Wachtwoord herhalen" autocomplete="off">
+											<span class="help-block"></span>
+										</div>
+										<div class="form-group">
+											<label for="name" class="control-label">Naam</label>
+											<input type="text" class="form-control" name="name" placeholder="Naam" value="" required title="name" autocomplete="off">
+											<span class="help-block"></span>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-xs-12">
+										<input type="hidden" name="app" value="man">
+											<button type="submit" value="login" name="submit" class="home-intro-cta-btn aanmelden" style="width: 100%; font-size: 14px;">
+												Aanmelden
+											</button>
+											
+											<div class="aanmeldstatusMsg"></div>
+									</div>
+									<div class="col-xs-12" style="margin-top: 10px;">
+										<center>
+											of
+										</center>
+									</div>
+									<div class="col-xs-12">
+										<ul class="list-unstyled list-social">
+											<li style="margin-top:10px;">
+												<a href="/socials/auth/login.php?app=facebook" class="btn btn-primary btn-block">
+													<span class=""><i class="fa fa-facebook"></i> Aanmelden met Facebook</span>
+												</a>
+											</li>
+									<!--		<li style="margin-top:10px;">
+												<a href="/v6/socials/auth/login.php?app=twitter" class="btn btn-lg btn-default btn-block">
+													<i class="fa fa-twitter"></i>
+													<span class="">Twitter</span>
+												</a>
+											</li>  -->
+										</ul>
+										<center>
+									</div>
+									<div class="col-xs-12">
+										<a data-toggle="modal" data-target="#login-modal" data-dismiss="modal" id="modal-launcher">Al een account? Inloggen.</a>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer aanmelden_modal_footer">
+				Door aan te melden of in te loggen, stem ik in met het <a target="_blank"href="/privacy">Privacy & Cookiebeleid</a> van WONEN.nl.
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+	
+	
+
+
+<!-- Collectie Modal -->
+<div class="modal fade" id="collectie-modal" role="dialog">
+	<div class="modal-dialog">
+		<!-- Modal content-->
+		<div class="modal-content">
+			<div class="quarter-circle-top-right">
+				<button type="button" class="close corner-close" data-dismiss="modal">&times;</button>
+			</div>
+			<div class="modal-body">
+				<div class="row" id="collectie-mod">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="collectie-mod-img relative v-center">
+							<img id="foto-mod-src" src="">
+						</div>
+					</div>
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<h1 id="foto-mod-title" class="collectie-mod-ttl"></h1>
+					</div>
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<!-- DE BRON BEKIJKEN EN WIJZIGEN KNOPPEN -->
+						 <div>  <a id="foto-mod-url" href="">    <button type="button" classz="btn btn-wonen">     Bron bekijken    </button>   </a>  </div>						<!--
+						Notitie voor Marc
+
+						'Bron bekijken' is nog niet variabel
+						kijkt enkel naar eerste ui_url en niet naar geplaatste AJAX data
+						manier vinden om de if variabel te vullen met de juiste AJAX data
+						-->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Einde modal content-->
+	</div>
+</div>
+	
+<!-- Collectie Wijzigen Modal -->
+<div class="modal fade" id="col-wijzig-modal" role="dialog">
+	<div class="modal-dialog">
+		<!-- Modal content-->
+		<div class="modal-content">
+			<div class="quarter-circle-top-right">
+				<button type="button" class="close corner-close" data-dismiss="modal">&times;</button>
+			</div>
+			<div class="modal-body">
+				<div class="form-group">
+					<div class="row"> 
+						<div class="col-xs-12">
+							<div class="circle-avatar">
+								<img id="modal-header-image" class="img-cover" src="">
+							</div>
+							<center>
+							<button type="button" class="btn btn-default" data-toggle="modal" data-target="#collectie-wijzigen-header-select">
+								<i class="fa fa-picture-o" aria-hidden="true"></i>
+								<span> Omslagfoto wijzigen</span>
+							</button>
+							</center>
+						</div>
+					</div>
+					<div class="row" style="margin-top:15px;"> 
+						<div class="col-xs-12">
+							<label for="titel" class="control-label">Titel wijzigen</label>
+							<input type="text" class="form-control" name="titel" value=""  title="Collectie titel" placeholder="Nieuwe titel" id="collectieTitel" maxlength="150">
+						</div>
+					</div>
+					<div class="row" style="margin-top:15px;">
+						<div class="col-xs-12">
+							<label for="col-foto-beheren" class="control-label">Collectie beheren</label>
+							<div class="collectie-edit-imgs">
+															</div>
+						</div>
+					</div>
+					<div class="row" style="margin-top:15px;">
+						<div class="col-xs-12">
+							<center>
+								<button type="button" class="btn btn-default" data-dismiss="modal">
+									<i class="fa fa-times" aria-hidden="true"></i>
+									<span> Annuleren</span>
+								</button>
+								<button type="button" class="btn btn-profil" onclick="beheerCollectie()">
+									<i class="fa fa-check-square-o" aria-hidden="true"></i>
+									<span> Wijzigingen opslaan</span>
+								</button>
+							</center>
+						</div>
+						<div style="color:red;text-align:center;" id="collectieBeheerError"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Einde modal content-->
+	</div>
+</div>
+<!-- Einde Collectie Wijzigen modal-->
+<div class="modal fade" id="collectie-wijzigen-header-select" role="dialog">
+	<div class="modal-dialog">
+		<!-- Modal content-->
+		<div class="modal-content">
+			<div class="quarter-circle-top-right">
+				<button type="button" class="close corner-close" data-dismiss="modal">&times;</button>
+			</div>
+			<div class="modal-body">
+				<div class="row">
+					<div class="col-xs-12">
+						<label for="col-foto-beheren" class="control-label">Omslagfoto wijzigen</label>
+						<div id="col-wijzig-hdr-slct" style="height:400px;overflow-y:scroll;">
+													</div>
+					</div>
+				</div>
+				<div class="row" style="margin-top:15px;">
+					<div class="col-xs-12">
+						<center>
+							<button type="button" class="btn btn-default" data-dismiss="modal">
+								<i class="fa fa-times" aria-hidden="true"></i>
+								<span> Annuleren</span>
+							</button>
+							<button type="button" class="btn btn-profil" onclick="wijzigHeader()">
+								<i class="fa fa-check-square-o" aria-hidden="true"></i>
+								<span> Wijzigingen opslaan</span>
+							</button>
+						</center>
+					</div>
+					<div style="color:red;text-align:center;" id="headerWijzigenError"></div>
+				</div>
+			</div>
+		</div>
+		<!-- Einde modal content-->
+	</div>
+</div>
+	
+	
+<!-- NAW Modal -->
+<div class="modal fade" id="naw-aanvraag-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<form id="baan-vraag" name="baan-vraag">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header naw-aanvraag-modal_header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2 style="text-align:center;" id="myModalLabel">Informatie aanvragen</h2>
+			</div>
+			<div class="modal-body naw-aanvraag-modal">
+			   <div class="row">
+					<div class="col-xs-12">
+						<div class="well">
+							
+								<div class="row">
+									<div class="col-xs-12">
+										<div class="form-group">
+											<div class="row"> 
+												<div class="col-xs-12">
+													<label for="Naam" class="control-label">Naam</label>
+													<input type="text" class="form-control" name="naam" value="" required title="Voor en Achternaam" placeholder="Voor en achternaam">
+													<span class="help-block"></span>
+												</div>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="row">
+												<div class="col-xs-12">
+													<label for="straat" class="control-label">Adres</label>
+													<input type="text" class="form-control" name="straat" value="" required title="Straatnaam huisnummer + toevoeging" placeholder="Straatnaam, huisnummer en eventuele toevoeging">
+													<span class="help-block"></span>
+												</div>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="row">
+												<div class="col-xs-6">
+													<label for="postcode" class="control-label">Postcode</label>
+													<input type="text" class="form-control" name="postcode" placeholder="Postcode" value="" required title="Postcode">
+													<span class="help-block"></span>
+												</div>
+												<div class="col-xs-6">
+													<label for="plaats" class="control-label">Plaats</label>
+													<input type="text" class="form-control" name="plaats" placeholder="Plaatsnaam" value="" required title="Plaatsnaam" autocomplete="off">
+													<span class="help-block"></span>
+												</div>
+											</div>
+										</div>
+										<div class="form-group">
+										    
+
+											<label for="e-mail" class="control-label">E-mailadres</label>
+											<input type="email" class="form-control" name="e-mail" placeholder="E-mailadres" value="" required title="E-mailadres" autocomplete="off">
+											<span class="help-block"></span>
+											<label for="t-nummer" class="control-label">Telefoonnummer</label>
+											<input type="tel" class="form-control" name="t-nummer" placeholder="Telefoonnummer" value="" required title="Telefoonnummer" autocomplete="off">
+											<span class="help-block"></span>
+										</div>
+									</div>
+								</div>
+							
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12">
+						<input type="hidden" name="type" value="g">
+						<input type="hidden" name="nummer" value="1">
+						<input type="hidden" name="member" value="">
+						
+						<button type="submit" value="aanvraag" onclick="submitbaanvraag()" name="submit" class="home-intro-cta-btn" style="width: 100%; font-size: 14px;">
+							Ja stuur mij informatie
+						</button>
+						<div class="statusMsg"></div>
+						
+						
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer naw-aanvraag-modal-footer"style="text-align:center;">
+				Door informatie aan te vragen stem ik in<br>met het <a target="_blank"href="/privacy">Privacy & Cookiebeleid</a> van WONEN.nl.
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	</form>
+</div>
+	
+	
+<!-- NEW ---->
+	
+<!-- Brochure Service aanvraag -->
+<div class="modal fade" id="nawb-aanvraag-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+	<form id="baanb-vraag" name="baanb-vraag">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header naw-aanvraag-modal_header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2 style="text-align:center;" id="myModalLabel">Informatie aanvragen</h2>
+			</div>
+			<div class="modal-body naw-aanvraag-modal">
+			   <div class="row">
+					<div class="col-xs-12">
+						<div style="text-align:center;margin-bottom:15px;font-size:16px;">
+							Gratis <span style="text-transform:lowercase;"></span>-brochures ontvangen? <br>
+							Vul hier je adres in en ontvang ze thuis!
+						</div>
+						<div class="well">
+							
+								<div class="row">
+									<div class="col-xs-12">
+										<div class="form-group">
+											<div class="row"> 
+												<div class="col-xs-12">
+													<label for="Naam" class="control-label">Naam</label>
+													<input type="text" class="form-control" name="naam" value="" required title="Voor en Achternaam" placeholder="Voor en achternaam">
+													<span class="help-block"></span>
+												</div>
+											</div>
+										</div>
+										
+										<div class="form-group">
+											<div class="row">
+												<div class="col-xs-12">
+													<label for="straat" class="control-label">Adres</label>
+													<input type="text" class="form-control" name="straat" value="" required title="Straatnaam huisnummer + toevoeging" placeholder="Straatnaam, huisnummer en eventuele toevoeging">
+													<span class="help-block"></span>
+												</div>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="row">
+												<div class="col-xs-6">
+													<label for="postcode" class="control-label">Postcode</label>
+													<input type="text" class="form-control" name="postcode" placeholder="Postcode" value="" required title="Postcode">
+													<span class="help-block"></span>
+												</div>
+												<div class="col-xs-6">
+													<label for="plaats" class="control-label">Plaats</label>
+													<input type="text" class="form-control" name="plaats" placeholder="Plaatsnaam" value="" required title="Plaatsnaam" autocomplete="off">
+													<span class="help-block"></span>
+												</div>
+											</div>
+										</div>
+										<div class="form-group">
+										    
+
+											<label for="e-mail" class="control-label">E-mailadres</label>
+											<input type="email" class="form-control" name="e-mail" placeholder="E-mailadres" value="" required title="E-mailadres" autocomplete="off">
+											<span class="help-block"></span>
+											<label for="t-nummer" class="control-label">Telefoonnummer</label>
+											<input type="tel" class="form-control" name="t-nummer" placeholder="Telefoonnummer" value="" required title="Telefoonnummer" autocomplete="off">
+											<span class="help-block"></span>
+										</div>
+									</div>
+								</div>
+							
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12">
+						<input type="hidden" name="type" value="g">
+						<input type="hidden" name="nummer" value="1">
+						<input type="hidden" name="groep" value="">
+										
+						<button type="submit" value="aanvraag" onclick="submitbaanbvraag()" name="submit" class="home-intro-cta-btn" style="width: 100%; font-size: 14px;">
+							Ja stuur mij informatie
+						</button>
+						<div class="statusMsg"></div>
+						
+						
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer naw-aanvraag-modal-footer"style="text-align:center;">
+				Door informatie aan te vragen stem ik in<br>met het <a target="_blank"href="/privacy">Privacy & Cookiebeleid</a> van WONEN.nl.
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	</form>
+</div>
+
+
+
+<!-- NBrief Modal -->
+<div class="modal fade" id="nb-aanvraag-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header nb-aanvraag-modal_header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h2 style="text-align:center;" id="myModalLabel">Inschrijven nieuwsbrief</h2>
+			</div>
+			<div class="modal-body nb-aanvraag-modal">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="well">
+							<form role="form" method="GET" action="#" id="emailnieuwsbrief">
+								<div class="row">
+									<div class="col-xs-12">
+										<div class="form-group">
+											<label for="e-mail" class="control-label">E-mailadres</label>
+											<input type="email" class="form-control"  name="e-mail" placeholder="E-mailadres" value="" required title="E-mailadres" autocomplete="off">
+											<span class="help-block"></span>
+										</div>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12">
+						<input type="hidden" name="app" value="man">
+						<button type="submit" value="aanvraag" name="submit" onclick="submitnieuwsbrief()" class="home-intro-cta-btn" style="width: 100%; font-size: 14px;">
+							Ja, ik wil de WONEN.nl nieuwsbrief ontvangen
+						</button>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer nb-aanvraag-modal-footer"style="text-align:center;">
+				Door mij in te schrijven voor de nieuwsbrief <br>stem ik in met het <a target="_blank"href="/privacy">Privacy & Cookiebeleid</a> van WONEN.nl.
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+
+<!-- Clipper modal -->
+<div class="modal fade" id="clipper" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="quarter-circle-top-right">
+				<button type="button" class="close corner-close" data-dismiss="modal">&times;</button>
+			</div>
+			<div class="modal-body">
+				<div class="row relative foto-modal">
+					<div class="col-sm-4 col-xs-12 foto-modal-l">
+						<div class="tab-content">
+							<div class="tab-pane active" id="tab_modal_foto_toevoegen_1" style="height:500px;">
+								<div class="flexbox-container">
+									<h3 style="margin-top:0px;">Foto opslaan</h3>
+									<h4 class="foto-modal-title" id="myModalLabel">Kies een bestaande collectie</h4>
+									<form>
+										<div class="form-group">
+											<!-- zoekveld voor bestaande collecties -->
+											<input type="text" class="form-control" id="zoeken1" placeholder="Bestaande Collectie zoeken">
+										</div>
+									</form>
+									<div class="scroll-p" style="flex:1;">
+										<div class="scroll-c">
+											<!-- begin collecties van gebruiker php -->
+											<div id="resultCollectie1"></div>
+												<!-- einde collecties van gebruiker php -->
+										</div>
+									</div>
+									<div class="h-center foto-modal-collectie-buttons">
+										<button href="#tab_modal_foto_toevoegen_2" class="btn btn-default" data-toggle="tab">Collectie toevoegen</button>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="tab_modal_foto_toevoegen_2" style="height:500px;">
+								<div class="flexbox-container">
+									<h3 style="margin-top:0px;">Foto opslaan</h3>
+									<h4 class="foto-modal-title" id="myModalLabel">Maak een nieuwe collectie</h4>
+									<div style="flex:1;">
+										<div style="padding: 15px;">
+											<div class="h-center" style="margin-bottom: 15px;">
+												<div class="circle-avatar">
+													<img class="img-cover" src="" id="imageprev2">
+												</div>
+											</div>
+										</div>
+										<form>
+											<div class="form-group">
+												<label for="naam">Naam</label>
+
+												<!-- nieuwe collectie naam veld -->
+												<input type="text" class="form-control" id="naam1" placeholder="bijv. keuken of badkamer inspiratie">
+											</div>
+										</form>
+									</div>
+									<div class="h-center foto-modal-collectie-buttons">
+										<button href="#tab_modal_foto_toevoegen_1" class="btn btn-default" data-toggle="tab">Annuleren</button>
+
+										<!-- nieuwe collectie aanmaken button -->
+										<button type="submit" class="btn btn-profil" onclick="nieuweCollectie(,1)">Collectie aanmaken</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-8 hidden-xs foto-modal-r">
+						<img src="" id="imageprev">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- foto toevoegen collectie modal -->
+<div class="modal fade" id="fotoUpload-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="quarter-circle-top-right">
+				<button type="button" class="close corner-close" data-dismiss="modal">&times;</button>
+			</div>
+			<div class="modal-body">
+				<div class="row relative foto-modal">
+					<div class="col-xs-12 foto-modal-l">
+						<div class="tab-content" id="tijdelijkeId">
+							<div class="tab-pane active" id="tab_modal_fotoUpload_toevoegen_1" style="height:500px;">
+								<div class="flexbox-container">
+									<div class="foto-modal-img-upload" style="flex:1;">
+										<form class="dropzone" id="fotoUpload">
+											<div class="dz-message dropzone-file-area" id="dragnDrop">
+												<div class="v-center" style="height:100%;width:100%;flex-direction:column;">
+													<span style="font-size:24px;">Klik hier om een foto te uploaden</span><br><br>
+													<i class="fa fa-camera" style="font-size:48px;" aria-hidden="true"></i>
+												</div>
+												<div style="color:red;" id="fotoUploadError"></div>
+												<div id="previews" class="dz-preview"></div>
+											</div>
+										</form>
+									</div>
+									<div class="h-center foto-modal-collectie-buttons" style="justify-content:flex-end;">
+										<button id='volgendeFotoToevoegen' href="#tab_modal_fotoUpload_toevoegen_2" class="btn btn-default" data-toggle="tab" disabled>Volgende</button>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="tab_modal_fotoUpload_toevoegen_2" style="height:500px;">	
+								<div class="flexbox-container">
+									<h3 style="margin-top:0px;">Foto toevoegen</h3>
+									<h4 class="foto-modal-title" id="myModalLabel">Kies een bestaande collectie</h4>
+									<form>
+										<div class="form-group">
+											<!-- zoekveld voor bestaande collecties -->
+											<input type="text" class="form-control" id="zoeken2" placeholder="Bestaande collectie zoeken">
+										</div>
+									</form>
+									<div class="scroll-p" style="flex:1;">
+										<div class="scroll-c">
+											<!-- begin collecties van gebruiker php -->
+											<div id="resultCollectie2"></div>
+												<!-- einde collecties van gebruiker php -->
+										</div>
+									</div>
+									<div class="h-center foto-modal-collectie-buttons">
+										<button href="#tab_modal_fotoUpload_toevoegen_1" class="btn btn-default" data-toggle="tab">Terug</button>
+										<button href="#tab_modal_fotoUpload_toevoegen_3" class="btn btn-default" data-toggle="tab">Nieuwe collectie</button>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="tab_modal_fotoUpload_toevoegen_3" style="height:500px;">
+								<div class="flexbox-container">
+									<h3 style="margin-top:0px;">Foto toevoegen</h3>
+									<h4 class="foto-modal-title" id="myModalLabel">Maak een nieuwe collectie</h4>
+									<div style="flex:1;">
+										<div style="padding: 15px;">
+											<div class="h-center" style="margin-bottom: 15px;">
+												<div class="circle-avatar">
+													<img class="img-cover" src="" id="imageprevUpload" style="display: none">
+												</div>
+											</div>
+										</div>
+										<form>
+											<div class="form-group">
+												<label for="naam">Naam</label>
+												<!-- nieuwe collectie naam veld -->
+												<input type="text" class="form-control" id="naam2" placeholder="bijv. keuken of badkamer inspiratie">
+											</div>
+										</form>
+									</div>
+									<div class="h-center foto-modal-collectie-buttons">
+										<button href="#tab_modal_fotoUpload_toevoegen_2" class="btn btn-default" data-toggle="tab">Bestaande collectie</button>
+										<!-- nieuwe collectie aanmaken button -->
+										<button type="submit" class="btn btn-profil" onclick="nieuweCollectie(,2)">Collectie aanmaken</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script src="/js/dropzone.js"></script>
+<script type="text/javascript">
+	//het laden van exif.js als fotoUpload-modal geladen wordt
+	var isLoaded = false;
+	$('#fotoUpload-modal').on('show.bs.modal', function () {
+		if(isLoaded == false){
+			$.getScript("/js/exif.js", function(data,textStatus) {
+				if(textStatus == "success"){
+					isLoaded = true;
+				}
+			});
+		}
+	});
+			//BEGIN DROPZONE.JS
+	//aanmaken van variabelen
+	var uploadedFile;
+	var divError = document.getElementById('fotoUploadError');
+
+	//aanmaken van de thumbnail preview
+	var previewTemplate = '<div class="dz-preview dz-file-preview v-center" style="background-color: #fff;"><img style="max-width:100%;max-height:100%;" data-dz-thumbnail /></div>';
+
+	Dropzone.options.fotoUpload = {
+		//configuraties voor dropzone.js
+		paramName: "file", // The name that will be used to transfer the file
+		maxFilesize: 10, // MB
+		maxFiles: 1,
+		parallelUploads: 1,
+		thumbnailMethod: "crop",
+		acceptedFiles: ".png, .jpg, .gif, .jpeg",
+		previewsContainer: "#previews",
+		previewTemplate: previewTemplate,
+		autoProcessQueue: false,
+		url: "../../ajax/nieuweFoto.php",
+		init: function() {
+			//defineeren van myDropzone zodat ik hem in andere functies kan gebruiken
+			myDropzone = this;
+
+			//Als er een nieuwe foto wordt geupload wordt de andere verwijderd
+	    	this.on("maxfilesexceeded", function(file) {
+	    		divError.innerHTML = "";
+	        	this.removeAllFiles();
+	        	uploadedFile = null;
+	            this.addFile(file);
+	    	});
+	    	this.on("error", function(file){if(!file.accepted){
+	    		this.removeFile(file);
+	    		this.removeAllFiles();
+	    		document.getElementById("imageprevUpload").src="";
+	    		document.getElementById("imageprevUpload").style.display="none";
+	    		uploadedFile = null;
+	    		//error als de file te groot is
+	    		if(file.size > 9000000){
+	    			divError.innerHTML = "Dit bestand is te groot.";
+	    		}
+	    		//error als de file geen image is
+	    		if(file.type != "image/png" && file.type != "image/jpeg" && file.type != "image/gif"){
+	    			divError.innerHTML = "U kunt dit bestandstype niet uploaden.";
+	    		}
+	    	}});
+	    	//als er een file over de dropzone wordt gehovered verander de css
+	    	this.on("dragover", function(){document.getElementById("dragnDrop").style.border = "2px solid blue";});
+
+	    	//de css weer terug zetten als de foto wordt gedropt of niet meer boven de dropzone hovered
+	    	this.on("dragleave", function(){document.getElementById("dragnDrop").style.border = "";});
+
+	    	this.on("drop", function(){document.getElementById("dragnDrop").style.border = "";});
+
+	    	//als er een file wordt toegevoegd uploadedFile vullen en de error div leegmaken
+	    	this.on("addedfile", function(file){divError.innerHTML = ""; uploadedFile = file;$('#volgendeFotoToevoegen').prop("disabled", false);});
+
+	    	this.on("removedfile", function(file){$('#volgendeFotoToevoegen').prop("disabled", true);});
+
+	    	//het zetten van de geuploade image in imageprevUpload
+	    	myDropzone.on('thumbnail', function(file, dataUri) {
+			    document.getElementById("imageprevUpload").src=dataUri;
+			    document.getElementById("imageprevUpload").style.display="block";
+			});
+
+	    	//als de foto geupload is hem weer verwijderen en uploadedFile leegmaken
+	    	this.on("success", function(file,response){
+	    		this.removeAllFiles();
+	    		uploadedFile = null;
+	    		if(response['isError'] == 1){
+	    			divError.innerHTML = response['error'];
+	    		}else{
+	    			$('#fotoUpload-modal').modal('hide');
+	    			$(location).attr('href', 'http://wonen.nl' + response['url'])
+	    		}
+	    		$("#tab_modal_fotoUpload_toevoegen_2").removeClass("active");
+	    		$("#tab_modal_fotoUpload_toevoegen_3").removeClass("active");
+	    		$("#tab_modal_fotoUpload_toevoegen_1").toggleClass("active");
+	    		document.getElementById("imageprevUpload").style.display="none";
+    		});
+	    }
+	};
+			//EIND DROPZONE.JS
+
+
+			//BEGIN TYPEAHEAD
+	//Door geven van de php arrays
+	var zoekwoord = [];
+	var compleet1 = [];
+	var compleet2 = [];
+
+	//Result div pakken
+	var modal1 = document.getElementById("resultCollectie1");
+	var modal2 = document.getElementById("resultCollectie2");
+
+	//aanmaken van index var
+	var index;
+	if (zoekwoord.length != null || compleet1.length != null) {
+		list1();
+	}
+	if(zoekwoord.length != null || compleet2.length != null){
+		list2();
+	}
+
+
+
+	//Het laten zien van alle collecties
+	function list1() {
+		for (var i = 0; i < compleet1.length; i++) {
+			modal1.innerHTML += compleet1[i];
+		}
+	}
+
+	//Het laten zien van alle collecties
+	function list2() {
+		for (var i = 0; i < compleet2.length; i++) {
+			modal2.innerHTML += compleet2[i];
+		}
+	}
+
+
+	var substringMatcher = function(strs) {
+		return function findMatches(q, cb) {
+			var matches, substringRegex;
+			modal1.innerHTML = "";
+			modal2.innerHTML = "";
+
+			// an array that will be populated with substring matches
+			matches = [];
+
+			// regex used to determine if a string contains the substring 'q'
+			substrRegex = new RegExp(q, 'i');
+
+			// iterate through the pool of strings and for any string that
+			// contains the substring 'q', add it to the 'matches' array
+			$.each(strs, function(i, str) {
+				if (substrRegex.test(str)) {
+					index = zoekwoord.indexOf(str);
+					modal1.innerHTML += compleet1[index];
+					modal2.innerHTML += compleet2[index];
+				}
+			});
+
+			cb(matches);
+		};
+	};
+
+
+	$('#zoeken1').typeahead({}, {
+		name: 'zoekwoord',
+		source: substringMatcher(zoekwoord)
+	});
+
+	$('#zoeken1').keyup(function() {
+		$(this).val()
+		if ($(this).val() == "") {
+			$('#resultCollectie1').html('');
+			list1();
+		}
+	});
+
+	$('#zoeken2').typeahead({}, {
+		name: 'zoekwoord',
+		source: substringMatcher(zoekwoord)
+	});
+
+	$('#zoeken2').keyup(function() {
+		$(this).val()
+		if ($(this).val() == "") {
+			$('#resultCollectie2').html('');
+			list2();
+		}
+	});
+			//EIND TYPEAHEAD
+
+
+	$(".aanmelden").click(function(event) {
+                    var d=$('#form-aanmelden-modal').serialize();
+					event.preventDefault();
+					  $('.aanmeldstatusMsg').html('');
+										
+					$.ajax({
+						url: '/ajax/user_aanmelden.php',
+						type: "POST",
+						data:  d,
+			      		success: function(data) {
+							if (data==1){ 
+							              $('.aanmeldstatusMsg').html('<span style="color:red;">Wachtwoord niet gelijk</p>');
+										   ga('send', 'event', 'aanmelden','aanmelden wachtwoord', '/', {'transport': 'beacon'});
+										}
+							if (data==0){ 
+							              $('.aanmeldstatusMsg').html('<span style="color:red;">Aangemaakt</p>');
+										  setTimeout(function() { $('#aanmelden-modal').modal('hide'); }, 2000);
+										   ga('send', 'event', 'aanmelden','aanmelden gelukt', '/', {'transport': 'beacon'});
+										  location.reload();
+										}
+							if (data==2){ 
+							              $('.aanmeldstatusMsg').html('<span style="color:red;">Alles invullen</p>');
+										   ga('send', 'event', 'aanmelden','aanmelden niet alles ingevuld', '/', {'transport': 'beacon'});
+										}
+							if (data==3){ 
+							              $('.aanmeldstatusMsg').html('<span style="color:red;">Email bestaat al klik op inloggen</p>');
+										   ga('send', 'event', 'aanmelden','Email bestaat al', '/', {'transport': 'beacon'});
+										}			
+										
+										
+										
+						},
+						error: function(error) {
+							$('.messages').html(error);
+						}
+					});
+
+				});
+</script>
+
+<script>
+	$('.collectie-edit-dlt').click(function() {
+    $(this).toggleClass('collectie-edit-dlt-selected');
+		$(this).toggleClass( "fa-trash-o" );
+		$(this).toggleClass( "fa-times" );
+	});
+	$('.collectie-edit-slct').click(function() {
+		$('#col-wijzig-hdr-slct').find('.collectie-edit-slct').removeClass('collectie-edit-slct-selected');
+		$('#col-wijzig-hdr-slct').find('.collectie-edit-slct').removeClass( "fa-check" );
+		$('#col-wijzig-hdr-slct').find('.collectie-edit-slct').addClass( "fa-picture-o" );
+    $(this).toggleClass('collectie-edit-slct-selected');
+		$(this).toggleClass( "fa-picture-o" );
+		$(this).toggleClass( "fa-check" );
+	});
+	
+	$('.collectie-mod-edit-change').click(function() {
+		$(this).toggle();
+		$('.collectie-mod-edit-exit').toggle();
+		$('.collectie-mod-edit-save').toggle();
+	});
+	$('.collectie-mod-edit-exit').click(function() {
+		$(this).toggle();
+		$('.collectie-mod-edit-change').toggle();
+		$('.collectie-mod-edit-save').toggle();
+	});
+	$('.collectie-mod-edit-save').click(function() {
+		$(this).toggle();
+		$('.collectie-mod-edit-change').toggle();
+		$('.collectie-mod-edit-exit').toggle();
+	});
+	
+</script>
+
+
+<script src="/js/stage.js"></script>
+
+<script type="text/javascript">
+	var headerWijzigenError = document.getElementById('headerWijzigenError');
+	var collectieBeheerError = document.getElementById('collectieBeheerError');
+	var huidigeTitel = "";
+
+	function wijzigHeader(){
+		headerWijzigenError.innerHTML = "";
+		var element = document.getElementsByClassName("fa collectie-edit-slct collectie-edit-slct-selected fa-check");
+		if(element.length != 0){
+			var fotoId = $(element).data('foto-id');
+			var dataString = "fotoId1=" + fotoId + "&gId1=" + "1" + "&uId1=" + "";
+
+			$.ajax({
+				cache: false,
+				type: "POST",
+				url: "/ajax/collectieHeaderWijzigen.php",
+				data: dataString,
+				success: function(result){
+					$('#collectie-wijzigen-header-select').modal('hide');
+
+					//de nieuwe header image plaatsen in de modal
+					document.getElementById("modal-header-image").src= $(element).parent().find('.img-cover')[0]['src'];
+
+					reloadPage();
+				}
+			});
+		}else{
+			//error message als er geen nieuwe header geselecteerd is
+			headerWijzigenError.innerHTML = "Er is geen nieuwe omslagfoto geselecteerd.";
+		}
+	}
+
+	function beheerCollectie(){
+		collectieBeheerError.innerHTML = "";
+		var titel = document.getElementById('collectieTitel').value;
+
+		//alle deleted images in 1 array zetten
+		var deletedImg = document.getElementsByClassName("fa collectie-edit-dlt collectie-edit-dlt-selected fa-times");
+		var deletedImgs = "";
+		for (var i = deletedImg.length - 1; i >= 0; i--) {
+			var fotoId = $(deletedImg[i]).data('foto-id');
+			if(i == 0){
+				deletedImgs += fotoId;
+			}else{
+				deletedImgs += fotoId + ",";
+			}
+		}
+		if (titel == huidigeTitel) titel = null;
+
+		if(titel == null && deletedImgs == ""){
+			$('#col-wijzig-modal').modal('hide');
+		}else{
+			if (titel == "" && deletedImgs == ""){
+				collectieBeheerError.innerHTML = "Er is geen nieuwe titel ingevuld.";
+			}else{
+				var dataString = "titel1=" + titel + "&deletedImgs1=" + deletedImgs + "&gId1=" + "1" + "&uId1=" + "";
+
+				$.ajax({
+					cache: false,
+					type: "POST",
+					url: "/ajax/collectieBeheer.php",
+					data: dataString,
+					success: function(result){
+						//error messages van de ajax response
+						switch(result){
+							case '0':
+								$('#col-wijzig-modal').modal('hide');
+
+								//nieuwe huidige titel instellen
+								if (titel == null){
+									huidigeTitel = "";
+								}else{
+									huidigeTitel = titel;
+								}
+
+								//het verwijderen van de images in de modal (zodat ze niet nog een keer verwijdert kunnen worden)
+								var res = deletedImgs.split(",");
+								for (var i = res.length - 1; i >= 0; i--) {
+									$('i[data-foto-id="'+res[i]+'"]').parent().remove();
+								}
+
+								reloadPage();
+								break;
+							case '1':
+								collectieBeheerError.innerHTML = "U heeft al een collectie met deze titel.";
+								break;
+							case '2':
+								collectieBeheerError.innerHTML = "De omslagfoto kan niet worden verwijdert.";
+								break;
+							default:
+								$('#col-wijzig-modal').modal('hide');
+						}	
+					}
+				});
+			}
+		}
+	}
+
+	//als de modal sluit wordden de errors leeg gemaakt en de geselecteerde items worden weer terug gezet
+	$('#col-wijzig-modal').on('hidden.bs.modal', function (e) {
+		collectieBeheerError.innerHTML = "";
+		document.getElementById('collectieTitel').value = huidigeTitel;
+		$('.collectie-edit-imgs').find('.collectie-edit-dlt-selected').removeClass( "fa-times" );
+		$('.collectie-edit-imgs').find('.collectie-edit-dlt-selected').addClass( "fa-trash-o" );
+		$('.collectie-edit-imgs').find('.collectie-edit-dlt-selected').removeClass('collectie-edit-dlt-selected');
+	});
+
+	$('#collectie-wijzigen-header-select').on('hidden.bs.modal', function (e) {
+		headerWijzigenError.innerHTML = "";
+		$('#col-wijzig-hdr-slct').find('.collectie-edit-slct').removeClass('collectie-edit-slct-selected');
+		$('#col-wijzig-hdr-slct').find('.collectie-edit-slct').removeClass( "fa-check" );
+		$('#col-wijzig-hdr-slct').find('.collectie-edit-slct').addClass( "fa-picture-o" );
+	});
+
+
+	//bron bekijken knop
+	$('.popfoto').click(function() {
+		var tagnr = $(this).data("id");
+		var images = null;
+
+		for (var i = images.length - 1; i >= 0; i--) {
+			if(images[i]['ui_id'] == tagnr){
+				var url = images[i]['ui_url'];
+			}
+		}
+
+		if(url == 'Lokaal geupload'){
+			$('#foto-mod-url').css('display','none');
+		}else{
+			$('#foto-mod-url').css('display','inline');
+		}
+	});
+</script>
+
+
+
+			<style type="text/css">
+				.bootstrap-tagsinput {
+					width: 100%;
+				}
+
+				.label {
+					line-height: 2 !important;
+				}
+				
+			</style>
+			
+
+			<script  src="/js/wonen.js"></script>
+
+			<div class="navbar navbar-footer">
+				<div class="container">
+					 <div class="row">
+						<div class="col-md-3">
+							<ul class="footer-map">
+								<li><a href="/nieuwsbrief">Nieuwsbrief</a></li>
+								<li><a href="/adverteren">Adverteren</a></li>
+								<li><a href="/over-wonen">Over Wonen</a></li>
+							</ul>
+						</div>
+						<div class="col-md-3">
+							<ul class="footer-map">
+								<li><a href="/disclaimer">Disclaimer</a></li>
+								<li><a href="/privacy">Privacy & Cookiebeleid</a></li>
+								<li><a href="/copyright">Copyright</a></li>
+							</ul>
+						</div>
+						<div class="col-md-6 v-center navbar-cr">
+							<span>© 2018 - Wonen Media</span>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+	<script>
+				
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33138825-1', 'auto');
+  ga('send', 'pageview');
+  
+
+  var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+  }
+
+
+
+var trackshop = function(url,actie,categorie) {
+   ga('send', 'event', categorie,actie, url, {
+     'transport': 'beacon'
+
+   });
+   }
+
+ $(".shop").click(function () {
+        var addressValue = $(this).attr("href");
+		var actie = $(this).data("actie");
+		var categorie = $(this).data("categorie");
+
+		trackshop(addressValue,actie,categorie);
+    });
+
+
+</script>
+
+
+
+
+  </body>
+</html>

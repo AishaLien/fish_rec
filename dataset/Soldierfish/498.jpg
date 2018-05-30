@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="oceanos">
+<head>
+    <meta charset="UTF-8">
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">-->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="icon" href="img/favicon.png"/>
+    <title>Océanos</title>
+    <meta name="keywords" content="Buceo Guadalajara, Nitrox Guadalajara, Diving Guadalajara, PADI, Escuela de Buceo, Cursos de Buceo, Puerto Vallarta, Manzanillo, Dive Trips, Viajes de Buceo, Camaras Subacuaticas, Underwater, Tec Rec, Technical Diving, Diving Equipment, Scuba Diving Courses, Underwater Photographer, Deep Diver, Nitrox, Nitrox Diver, Aire Enriquecido, Dive Center, PADI Dive Center, Tienda de Buceo, Compresores, Compressors, Dive Computers, Divemaster Course, Assistant Instructor Course, Rescue Diver, Advanced Open Water Diver, Open Water Diver, Curso de Aguas Abiertas, Master Diver, Subacuatico, Cursos para Instructor de Buceo, Instructor Courses, Dive Store, Buceo Mexico, Dive Mexico">
+    <meta name="description" content="Oceanos es un Centro de Buceo con Servicio Integral y atención personalizada. Buscamos cubrir todas tus necesidades bajo el agua: entrenamiento y educación continua, viajes y expediciones, venta, renta y mantenimiento de equipo. Desarrollamos buzos certificados con alto nivel de seguridad y conscientes de su entorno marino a través de programas de entrenamiento en todos los niveles, con instructores certificados por las agencias SSI, PADI e IANTD">
+    <!-- Angular JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-touch.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-sanitize.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-route.min.js"></script>
+    <script src="/js/controllers.js"></script>
+    <script src="/js/app.js"></script>
+    <!-- FIREBASE JS -->
+    <script src="https://www.gstatic.com/firebasejs/3.6.6/firebase.js"></script>
+    <script>
+        var config = {
+            apiKey: "AIzaSyDqQj-fkU4wderEZeIfaM3A7vfI9C04sNQ",
+            authDomain: "oceanos.firebaseapp.com",
+            databaseURL: "https://oceanos.firebaseio.com",
+            storageBucket: "project-8937275900062942618.appspot.com"
+        };
+        firebase.initializeApp(config);
+    </script>
+    <!-- REDIRECT -->
+    <base href="/" />
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window,document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1542960012434636');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1"
+             src="https://www.facebook.com/tr?id=1542960012434636&ev=PageView
+&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+</head>
+<body>
+<div class="headerback">
+    <a class=" hidden-lg img-responsive logocontainer2" href="/"><img class="logo2" src="img/logo.png"> </a>
+    <div class="container">
+        <div class="row">
+
+            <div class="Tabla_01 col-md-12">
+                <div class="headercode-01 hidden-md hidden-sm hidden-xs">
+                    <img src="./images/headercode_01.png" width="57" height="51" alt="">
+                </div>
+                <div class="headercode-02 hidden-md hidden-sm hidden-xs">
+                    <p class="text-left marginheader">
+                        <br>
+                        Plaza Exhimoda, local 1F.
+                        <br>
+                        Avenida Vallarta 3233, Gdl.
+                    </p></div>
+                <div class="headercode-03">
+
+                    <a class=" hidden-md hidden-sm hidden-xs mg-responsive logocontainer" href="/"><img class="logo" src="img/logo.png"> </a>
+                </div>
+                <div class="headercode-04 hidden-md hidden-sm hidden-xs">
+                    <ul class="nav navbar-nav social navbar-right hidden-md hidden-sm hidden-xsd marginsocial" >
+                        <li><a class="constrain" href="https://www.facebook.com/oceanosbuceo?ref=br_rs"><img src="img/icons/facebook.png" alt="Facebook"/></a></li>
+                        <li><a class="constrain" href="http://instagram.com/oceanos.buceo"><img src="img/icons/instagram.png" alt="Instagram"/></a></li>
+                        <li><a class="constrain" href="https://twitter.com/oceanosbuceo"><img src="img/icons/twitter.png" alt="Twitter"/></a></li>
+                        <li><a class="constrain" href="https://www.youtube.com/channel/UCf0OvlPYsTYLBS1QcwsHr2w"><img src="img/icons/youtube.png" alt="YouTube"/></a></li>
+                        <li><a class="constrain" data-toggle="modal" data-target="#myModal"><img src="img/icons/newsletter.png" alt="Newsletter"/></a></li>
+                    </ul>
+                </div>
+                <div class="headercode-05 hidden-md hidden-sm hidden-xs">
+                    <img src="./images/headercode_05.png" width="57" height="56" alt="">
+                </div>
+                <div class="headercode-06 hidden-md hidden-sm hidden-xs">
+                    <p class="text-left marginheader2">
+                        <br>
+                        (33) 39158107
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<header class="header" ng-controller="HeaderController">
+    <!-- Header ESPECIAL-->
+    <div class="container miles hidden-xs hidden-sm hidden-lg">
+        <ul class="nav fifty text-right absolutenav">
+            <li><a href="/cursos">Cursos</a></li>
+            <li><a href="/viajes">Viajes</a></li>
+            <li><a href="/servicios">Nuestros Servicios</a></li>
+        </ul>
+        <ul class="nav fifty text-left">
+            <li><a href="/pagina/tienda">Tienda</a></li>
+            <li><a href="/blog" target="_self">Blog</a></li>
+            <li><a href="/nosotros">¿Quién es Océanos?</a></li>
+            <li><a href="/contacto">Contáctanos</a></li>
+        </ul>
+    </div>
+    <nav class="navbar navbar-default hidden-lg">
+        <div class="container-fluid">
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="container">
+                <div class="navbar-header floater">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-hover="dropdown" data-target="#navbar11" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <br>
+                <div id="navbar11" class="collapse">
+                    <div>
+                        <ul class="nav navbar-left hidden-md hidden-lg">
+                            <li><a href="/cursos" data-toggle="collapse" data-hover="dropdown" data-target="#navbar11"><h1>Cursos</h1></a></li>
+                            <li><a href="/viajes" data-toggle="collapse" data-hover="dropdown" data-target="#navbar11"><h1>Viajes</h1></a></li>
+                            <li><a href="/servicios" data-toggle="collapse" data-hover="dropdown" data-target="#navbar11"><h1>Nuestros Servicios</h1></a></li>
+                            <li><a href="/pagina/tienda">Tienda</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul class="nav navbar-left  hidden-md hidden-lg">
+                            <li><a href="/blog" data-toggle="collapse" data-hover="dropdown" data-target="#navbar11" target="_blank"><h1>Blog</h1></a></li>
+                            <li><a href="/nosotros" data-toggle="collapse" data-hover="dropdown" data-target="#navbar11"><h1>¿Quién es Océanos?</h1></a></li>
+                            <li><a href="/contacto" data-toggle="collapse" data-hover="dropdown" data-target="#navbar11"><h1>Contáctanos</h1></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    <div class="container menu hidden-xs hidden-sm">
+        <ul class="nav navbar-nav navbar-left absolutenav">
+            <li><a href="/cursos">Cursos</a></li>
+            <li><a href="/viajes">Viajes</a></li>
+            <li><a href="/servicios">Nuestros Servicios</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="/pagina/tienda">Tienda</a></li>
+            <li><a href="/blog" target="_self">Blog</a></li>
+            <li><a href="/nosotros">¿Quién es Océanos?</a></li>
+            <li><a href="/contacto">Contáctanos</a></li>
+        </ul>
+    </div>
+</header>
+<br>
+<div ng-view></div>
+<div ng-include="'templates/footer.html'"></div>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="js/bootstrap-hover-dropdown.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+    var __st_loadLate=true; //if __st_loadLate is defined then the widget will not load on domcontent ready
+    stLight.options({publisher: "8c2de77e-74ec-467a-96c0-d846b819ad3c", doNotHash: false, doNotCopy: false, hashAddressBar: false});
+</script>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-56239611-12', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>
+                                  Browse Album :: Underwater Photography                            </title>
+    <link rel="shortcut icon" href="/gallery3/lib/images/favicon.ico" type="image/x-icon" />
+                        <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="/gallery3/themes/dark_canvas/css/fix-ie.css"
+          media="screen,print,projection" />
+    <![endif]-->
+                                      <script type="text/javascript">
+    var MSG_CANCEL = "Cancel";
+    </script>
+                    
+        
+    <!-- LOOKING FOR YOUR JAVASCRIPT? It's all been combined into the link below -->
+<script type="text/javascript" src="/gallery3/index.php/combined/javascript/da3b0c598d052a882aecb882d1762cf0"></script>
+
+<!-- LOOKING FOR YOUR CSS? It's all been combined into the link below -->
+<link rel="stylesheet" type="text/css" href="/gallery3/index.php/combined/css/3336409365318760a45ba0932c0b0fec" media="screen,print,projection" />
+
+<link rel="alternate" type="application/rss+xml" href="/gallery3/index.php/rss/feed/gallery/album/1" />
+
+
+
+  </head>
+
+  <body >
+        <div id="doc4" class="yui-t5 g-view">
+            <div id="g-header" class="ui-helper-clearfix">
+        <div id="g-banner">
+                    <a id="g-logo" class="g-left" href="/gallery3/index.php/" title="go back to the Gallery home">
+            <img width="128" height="44" alt="Gallery logo: Your photos on your web site" src="/gallery3/themes/dark_canvas/images/canvaslogo.png" />
+          </a>
+                    <ul id='g-login-menu' class="g-inline ui-helper-clear-fix">
+    <li>
+  <a id='g-login-link'     class="g-dialog-link "
+     href="/gallery3/index.php/login/ajax"
+     title="Login">
+    Login  </a>
+</li>
+  </ul>
+
+          <form action="/gallery3/index.php/search" id="g-quick-search-form" class="g-short-form">
+  <ul>
+    <li>
+      <label for="g-search">Search the gallery</label>
+      <input type="text" name="q" id="g-search" class="text" />
+    </li>
+    <li>
+      <input type="submit" value="Go" class="submit" />
+    </li>
+  </ul>
+</form>
+          <div id="g-banner-languages">
+                                  </div>
+
+          <!-- hide the menu and make it visible after the page has loaded, to minimize menu flicker -->
+          <div id="g-site-menu" style="visibility: hidden">
+           <ul  class="g-menu">
+    <li>
+  <a      class="g-menu-link "
+     href="/gallery3/index.php/"
+     title="Home">
+    Home  </a>
+</li>
+      </ul>
+
+          </div>
+          <script type="text/javascript"> $(document).ready(function() { $("#g-site-menu").css("visibility", "visible"); }) </script>
+                  </div>
+
+              </div>
+      <div id="bd">
+        <div id="yui-main">
+          <div class="yui-b">
+            <div id="g-content" class="yui-g">
+                            <div id="g-info">
+    <h1>Underwater Photography</h1>
+  <div class="g-description"></div>
+</div>
+
+<ul id="g-album-grid" class="ui-helper-clearfix">
+                      <li id="g-item-id-3874" class="g-item g-album">
+        <a href="/gallery3/index.php/Grand-Cayman">
+      <img class="g-thumbnail" src="/gallery3/var/thumbs/Grand-Cayman/.album.jpg?m=1344216629" alt="Grand Cayman" width="200" height="133"/>    </a>
+            <h2><span class="g-album"></span>
+      <a href="/gallery3/index.php/Grand-Cayman">Grand Cayman</a></h2>
+    <ul class="g-metadata">
+      <li>Views: 10105</li><li>By: Mark Rosenstein</li>    </ul>
+  </li>
+                      <li id="g-item-id-3731" class="g-item g-album">
+        <a href="/gallery3/index.php/Fiji-2012">
+      <img class="g-thumbnail" src="/gallery3/var/thumbs/Fiji-2012/.album.jpg?m=1344216629" alt="Fiji 2012" width="200" height="133"/>    </a>
+            <h2><span class="g-album"></span>
+      <a href="/gallery3/index.php/Fiji-2012">Fiji 2012</a></h2>
+    <ul class="g-metadata">
+      <li>Views: 14037</li><li>By: Mark Rosenstein</li>    </ul>
+  </li>
+                      <li id="g-item-id-3550" class="g-item g-album">
+        <a href="/gallery3/index.php/Italy-2011">
+      <img class="g-thumbnail" src="/gallery3/var/thumbs/Italy-2011/.album.jpg?m=1344216629" alt="Italy 2011" width="200" height="133"/>    </a>
+            <h2><span class="g-album"></span>
+      <a href="/gallery3/index.php/Italy-2011">Italy 2011</a></h2>
+    <ul class="g-metadata">
+      <li>Views: 14361</li><li>By: Mark Rosenstein</li>    </ul>
+  </li>
+                      <li id="g-item-id-3408" class="g-item g-album">
+        <a href="/gallery3/index.php/Fiji-2010">
+      <img class="g-thumbnail" src="/gallery3/var/thumbs/Fiji-2010/.album.jpg?m=1344216629" alt="Fiji 2010" width="200" height="133"/>    </a>
+            <h2><span class="g-album"></span>
+      <a href="/gallery3/index.php/Fiji-2010">Fiji 2010</a></h2>
+    <ul class="g-metadata">
+      <li>Views: 14518</li><li>By: Mark Rosenstein</li>    </ul>
+  </li>
+                      <li id="g-item-id-3" class="g-item g-album">
+        <a href="/gallery3/index.php/bestof">
+      <img class="g-thumbnail" src="/gallery3/var/thumbs/bestof/.album.jpg?m=1344216629" alt="Best of Underwater Photography" width="200" height="133"/>    </a>
+            <h2><span class="g-album"></span>
+      <a href="/gallery3/index.php/bestof">Best of Underwater P…</a></h2>
+    <ul class="g-metadata">
+      <li>Views: 40116</li><li>By: Mark Rosenstein</li>    </ul>
+  </li>
+                      <li id="g-item-id-21" class="g-item g-album">
+        <a href="/gallery3/index.php/birds">
+      <img class="g-thumbnail" src="/gallery3/var/thumbs/birds/.album.jpg?m=1344216629" alt="Birds" width="200" height="133"/>    </a>
+            <h2><span class="g-album"></span>
+      <a href="/gallery3/index.php/birds">Birds</a></h2>
+    <ul class="g-metadata">
+      <li>Views: 35064</li><li>By: Mark Rosenstein</li>    </ul>
+  </li>
+                      <li id="g-item-id-31" class="g-item g-album">
+        <a href="/gallery3/index.php/maldives">
+      <img class="g-thumbnail" src="/gallery3/var/thumbs/maldives/.album.jpg?m=1344216629" alt="Maldives" width="200" height="133"/>    </a>
+            <h2><span class="g-album"></span>
+      <a href="/gallery3/index.php/maldives">Maldives</a></h2>
+    <ul class="g-metadata">
+      <li>Views: 12866</li><li>By: Mark Rosenstein</li>    </ul>
+  </li>
+                      <li id="g-item-id-30" class="g-item g-album">
+        <a href="/gallery3/index.php/galapgos">
+      <img class="g-thumbnail" src="/gallery3/var/thumbs/galapgos/.album.jpg?m=1344216629" alt="Galápagos" width="200" height="133"/>    </a>
+            <h2><span class="g-album"></span>
+      <a href="/gallery3/index.php/galapgos">Galápagos</a></h2>
+    <ul class="g-metadata">
+      <li>Views: 15991</li><li>By: Mark Rosenstein</li>    </ul>
+  </li>
+                      <li id="g-item-id-29" class="g-item g-album">
+        <a href="/gallery3/index.php/fiji09">
+      <img class="g-thumbnail" src="/gallery3/var/thumbs/fiji09/.album.jpg?m=1344216629" alt="Fiji 2009" width="200" height="200"/>    </a>
+            <h2><span class="g-album"></span>
+      <a href="/gallery3/index.php/fiji09">Fiji 2009</a></h2>
+    <ul class="g-metadata">
+      <li>Views: 17281</li><li>By: Mark Rosenstein</li>    </ul>
+  </li>
+  </ul>
+
+
+<ul class="g-paginator ui-helper-clearfix">
+  <li class="g-first">
+            <a class="g-button ui-icon-left ui-state-disabled ui-corner-all">
+        <span class="ui-icon ui-icon-seek-first"></span>First</a>
+      
+      <a class="g-button ui-icon-left ui-state-disabled ui-corner-all">
+      <span class="ui-icon ui-icon-seek-prev"></span>Previous</a>
+    </li>
+
+  <li class="g-info">
+                  Photos 1 - 9 of 34            </li>
+
+  <li class="g-text-right">
+      <a href="/gallery3/index.php/?page=2" class="g-button ui-icon-right ui-state-default ui-corner-all">
+      <span class="ui-icon ui-icon-seek-next"></span>Next</a>
+  
+            <a href="/gallery3/index.php/?page=4" class="g-button ui-icon-right ui-state-default ui-corner-all">
+        <span class="ui-icon ui-icon-seek-end"></span>Last</a>
+        </li>
+</ul>
+            </div>
+          </div>
+        </div>
+        			<style type="text/css">
+			/* No breadcrums, position adaption for sidebar needed */
+			#g-sidebar
+			{
+				top: 6px;
+			}
+			</style>		
+		        <div id="g-sidebar" class="yui-b">
+                    <div id="g-view-menu" class="g-buttonset ui-helper-clearfix">
+      <ul  class="g-menu">
+    <li>
+  <a id='g-slideshow-link'     class="g-menu-link "
+     href="javascript:cooliris.embed.show({maxScale:0,feed:'/gallery3/index.php/rss/feed/gallery/album/1'})"
+     title="View slideshow">
+    View slideshow  </a>
+</li>
+  </ul>
+
+  </div>
+
+<div id="g-metadata" class="g-block">
+  <h2>Album info</h2>
+  <div class="g-block-content">
+    <ul class="g-metadata">
+  <li>
+    <strong class="caption">Title:</strong>
+    Underwater Photography  </li>
+        <li>
+    <strong class="caption">Number of photos:</strong>
+    34  </li>
+    </ul>
+  </div>
+</div>
+<div id="g-rss" class="g-block">
+  <h2>Available RSS feeds</h2>
+  <div class="g-block-content">
+    <ul id="g-feeds">
+  <li style="clear: both;">
+    <span class="ui-icon-left">
+    <a href="/gallery3/index.php/rss/feed/gallery/latest">
+      <span class="ui-icon ui-icon-signal-diag"></span>
+      Latest photos and movies    </a>
+    </span>
+  </li>
+</ul>
+  </div>
+</div>
+<div id="g-image-block" class="g-block">
+  <h2>Random image</h2>
+  <div class="g-block-content">
+    <div class="g-image-block">
+  <a href="/gallery3/index.php/komodo/land/IMG_5161">
+   <img class="g-thumbnail" src="/gallery3/var/thumbs/komodo/land/IMG_5161.jpg?m=1284654080" alt="On the beach at Rinca" width="200" height="133"/>  </a>
+</div>
+  </div>
+</div>
+<div id="g-dynamic" class="g-block">
+  <h2>Dynamic Albums</h2>
+  <div class="g-block-content">
+    <div class="g-dynamic-block">
+  <ul>
+    <li>
+  <a href="/gallery3/index.php/dynamic/updates">Recent changes</a>
+  </li>
+    <li>
+  <a href="/gallery3/index.php/dynamic/popular">Most viewed</a>
+  </li>
+    </ul>
+</div>
+  </div>
+</div>
+                  </div>
+      </div>
+      <div id="g-footer" class="ui-helper-clearfix">
+                
+                <ul id="g-credits" class="g-inline">
+          <li class="g-first">Powered by <a href="http://gallery.menalto.com"><bdo dir="ltr">Gallery 3.0 (Santa Fe)</bdo></a></li>        </ul>
+              </div>
+    </div>
+    
+<script src="http://e.cooliris.com/slideshow/v/37732/go.js" type="text/javascript"></script>
+
+	<!-- Piwik -->
+	<script type="text/javascript">
+	var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.actwin.com/piwik/" : "http://stats.actwin.com/piwik/");
+	document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script type="text/javascript">
+	try {
+	var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 12);
+	piwikTracker.trackPageView();
+	piwikTracker.enableLinkTracking();
+	} catch( err ) {}
+	</script><noscript><p><img src="http://stats.actwin.com/piwik/piwik.php?idsite=12" style="border:0" alt=""/></p></noscript>
+	<!-- End Piwik Tag -->
+  </body>
+</html>

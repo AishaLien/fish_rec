@@ -81,7 +81,6 @@ b_fc1=bias_variable([1024])
 h_fc1=tf.nn.relu(tf.matmul(h_pool2_flat,W_fc1)+b_fc1)
 
 #排除overfitting
-#h_fc1_drop=tf.nn.dropout(h_fc1,keep_drop)
 h_fc1_drop=tf.nn.dropout(h_fc1,keep_prob)
 #要更改 輸出為可能的數量
 W_fc2=weight_variable([1024,10])
@@ -94,8 +93,19 @@ prediction=tf.nn.softmax(tf.matmul(h_fc1_drop,W_fc2)+b_fc2)
 cross_entropy=tf.reduce_mean(
     -tf.reduce_sum(ys*tf.log(prediction),
     reduction_indices=[1]))
+
 train_step=tf.train.AdamOptimizer(1e-4).minimize(cross_entropy)
+
 sess=tf.Session()
+sess.run(tf.global_variables_initializer())
+
+for i in range(1000):
+    batch_xs,batch_ys = mnist.train.next_batch(100)
+    sess.run(train_step,feed_dict={xs:batch_xs,ys:batch_ys})
+    if i%50 == 0:
+        print(compute_accuracy(mnist.test.images, mnist.test.tabels))
+
+#sess=tf.Session()
 # tf.initialize_all_variables() 这种写法马上就要被废弃
 # 替换成下面的写法:
-sess.run(tf.global_variables_initializer())
+#print(sess.run(tf.global_variables_initializer()))  
