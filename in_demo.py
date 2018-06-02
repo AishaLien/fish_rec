@@ -1,5 +1,7 @@
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
+# 繪圖工具
+import matplotlib.pyplot as plt
 
 # Parameters
 model_path = "/set_model/model.ckpt"
@@ -96,29 +98,38 @@ train_step = tf.train.AdamOptimizer(1e-4).minimize(cross_entropy)
 
 
 
-########## 定義Sess 以及初始化 ##########
-sess = tf.Session()
-# 之後假如有save 則不再需要初始化
-sess.run(tf.initialize_all_variables())
+with tf.Session() as sess:
+    with tf.device("/cpu:0"):
+        ########## 定義Sess 以及初始化 ##########
+        #sess = tf.Session()
+        # 之後假如有save 則不再需要初始化
+        sess.run(tf.initialize_all_variables())
 
-########## 存取模型 並讓之後來套用 ##########
-# 'Saver' op to save and restore all the variables
-saver = tf.train.Saver() 
-save_path = saver.save(sess, model_path)
-print("Model save to file: %s" % model_path)
- 
+        ########## 存取模型 並讓之後來套用 ##########
+        # 'Saver' op to save and restore all the variables
+        saver = tf.train.Saver() 
+        save_path = saver.save(sess, model_path)
+        print("Model save to file: %s" % model_path)
+         
 
-#開始訓練，dropout 0.5代表隨機隱藏掉一半神經元的資訊
+        #開始訓練，dropout 0.5代表隨機隱藏掉一半神經元的資訊
 
-#科學家們發現這樣可以有效的減少overfitting
+        #科學家們發現這樣可以有效的減少overfitting
 
-#有關dropout的相關資訊可以參考這篇
+        #有關dropout的相關資訊可以參考這篇
 
-#設定代數
-for i in range(10000):
-	#設定下一筆的訓練資料跑多少(這邊設定是100筆)
-    batch_xs, batch_ys = mnist.train.next_batch(100)
-    #訓練樣本打哪來
-    sess.run(train_step, feed_dict={xs: batch_xs, ys: batch_ys, keep_prob: 0.5})
-    if i % 50 == 0:
-        print(compute_accuracy(mnist.test.images, mnist.test.labels))
+        #設定代數
+        for i in range(100):
+            #設定下一筆的訓練資料跑多少(這邊設定是100筆)
+            batch_xs, batch_ys = mnist.train.next_batch(100)
+            #訓練樣本打哪來
+            sess.run(train_step, feed_dict={xs: batch_xs, ys: batch_ys, keep_prob: 0.5})
+            if i % 50 == 0:
+                print(compute_accuracy(mnist.test.images, mnist.test.labels))
+
+        # Show image that we want to predict
+        plt.imshow(mnist.test.images[0].reshape((28, 28)))
+        plt.show()
+        ans = tf.argmax(prediction, 1)
+        print("Answer:", sess.run(ans, feed_dict={xs: mnist.test.images[0:1],ys: mnist.test.labels[0:1],keep_prob: 0.5}))
+
