@@ -2,6 +2,10 @@ import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 # 繪圖工具
 import matplotlib.pyplot as plt
+#工具定義
+import numpy as np
+#自定義
+import read_data
 
 # Parameters
 model_path = "./set_model/model.ckpt"
@@ -118,18 +122,32 @@ with tf.Session() as sess:
 
         #有關dropout的相關資訊可以參考這篇
 
+        #本地圖片測試
+        image, label = read_data.read_and_decode("train_data.tfrecords")
+        coord=tf.train.Coordinator()
+        threads= tf.train.start_queue_runners(coord=coord)
+        batch_size = 100
+        example = np.zeros((batch_size,128,128,3))
+        l = np.zeros((batch_size,1))
+
         #設定代數
-        for i in range(100):
-            #設定下一筆的訓練資料跑多少(這邊設定是100筆)
-            batch_xs, batch_ys = mnist.train.next_batch(100)
-            #訓練樣本打哪來
-            sess.run(train_step, feed_dict={xs: batch_xs, ys: batch_ys, keep_prob: 0.5})
-            if i % 50 == 0:
-                print(compute_accuracy(mnist.test.images, mnist.test.labels))
+        try:
+            for i in range(100):
+                #設定下一筆的訓練資料跑多少(這邊設定是100筆)
+                batch_xs, batch_ys = mnist.train.next_batch(100)
+                #訓練樣本打哪來
+                sess.run(train_step, feed_dict={xs: batch_xs, ys: batch_ys, keep_prob: 0.5})
+                if i % 50 == 0:
+                    print(compute_accuracy(mnist.test.images, mnist.test.labels))
+        except tf.errors.OutOfRangeError:
+            print('done!')
+        finally:
+            coord.request_stop()
+        coord.join(threads)
 
         # Show image that we want to predict
-        plt.imshow(mnist.test.images[0].reshape((28, 28)))
-        plt.show()
-        ans = tf.argmax(prediction, 1)
-        print("Answer:", sess.run(ans, feed_dict={xs: mnist.test.images[0:1],ys: mnist.test.labels[0:1],keep_prob: 0.5}))
+        #plt.imshow(mnist.test.images[0].reshape((28, 28)))
+        #plt.show()
+        #ans = tf.argmax(prediction, 1)
+        #print("Answer:", sess.run(ans, feed_dict={xs: mnist.test.images[0:1],ys: mnist.test.labels[0:1],keep_prob: 0.5}))
 
