@@ -11,6 +11,8 @@ import read_data
 model_path = "./set_model/model.ckpt"
 # number 1 to 10 data
 mnist = input_data.read_data_sets('MNIST_data', one_hot=True)
+#設定分類的類別有幾個
+output_size  = 3
 
 def compute_accuracy(v_xs, v_ys):
     global prediction
@@ -43,14 +45,15 @@ def max_pool_2x2(x):
 
 
 ########## 定義placeholder(給圖片預留位置) 這邊給予的是圖片訊息 ##########
-xs = tf.placeholder(tf.float32, [None, 784]) # 28x28
+xs = tf.placeholder(tf.float32, [None,28,28,3]) # 28x28
 #答案為0~9一共十組
-ys = tf.placeholder(tf.float32, [None, 10])
+ys = tf.placeholder(tf.float32, [None, output_size])
+
 keep_prob = tf.placeholder(tf.float32)
 
 #將圖片reshape， -1表示會自動算幾組
 #圖片格式: -1為不管目前的維度,28*28的像素點，1/3分別代表黑白/彩色
-x_image = tf.reshape(xs, [-1, 28, 28, 1])
+x_image = tf.reshape(xs, [-1, 28, 28, 3])
 
 
 
@@ -59,7 +62,7 @@ x_image = tf.reshape(xs, [-1, 28, 28, 1])
 ## conv1 layer ##
 
 #1:表示 input_size  32:表示output_size 所以這裡表示一張圖總共訓練出32個filter
-W_conv1 = weight_variable([5,5, 1,32]) # filter 5x5, in size 1, out size 32
+W_conv1 = weight_variable([5,5, 3,32]) # filter 5x5, in size 1, out size 32
 b_conv1 = bias_variable([32])
 h_conv1 = tf.nn.relu(conv2d(x_image, W_conv1) + b_conv1) # output size 28x28x32
 h_pool1 = max_pool_2x2(h_conv1)    # output size 14x14x32
@@ -92,14 +95,16 @@ h_fc1_drop = tf.nn.dropout(h_fc1, keep_prob)
 ## func2 layer(output) ##
 
 #倒數第二層為1024個神經元 最後一層為10個神經元 採用softmax當成最後一層的激活函數
-W_fc2 = weight_variable([1024, 10])
-b_fc2 = bias_variable([10])
+W_fc2 = weight_variable([1024, output_size])
+b_fc2 = bias_variable([output_size])
 prediction = tf.nn.softmax(tf.matmul(h_fc1_drop, W_fc2) + b_fc2)
 
 ########## 定義loss function 以及 優化函數 ##########
 cross_entropy = tf.reduce_mean(-tf.reduce_sum(ys * tf.log(prediction),reduction_indices=[1]))# loss
 train_step = tf.train.AdamOptimizer(1e-4).minimize(cross_entropy)
-
+#### 準度預測
+correct_prediction = tf.equal(tf.argmax(prediction,1),tf.argmax(ys,1))
+accuracy = tf.reduce_mean(tf.cast(correct_prediction,tf.float32))
 
 
 with tf.Session() as sess:
@@ -108,6 +113,8 @@ with tf.Session() as sess:
         #sess = tf.Session()
         # 之後假如有save 則不再需要初始化
         sess.run(tf.initialize_all_variables())
+        #coord=tf.train.Coordinator()
+        #threads= tf.train.start_queue_runners(coord=coord)
 
         ########## 存取模型 並讓之後來套用 ##########
         # 'Saver' op to save and restore all the variables
@@ -123,27 +130,38 @@ with tf.Session() as sess:
         #有關dropout的相關資訊可以參考這篇
 
         #本地圖片測試
-        image, label = read_data.read_and_decode("train_data.tfrecords")
-        coord=tf.train.Coordinator()
-        threads= tf.train.start_queue_runners(coord=coord)
         batch_size = 100
-        example = np.zeros((batch_size,128,128,3))
-        l = np.zeros((batch_size,1))
+        image, label = read_data.read_and_decode("train_data.tfrecords")
+        #使用shuffle_batch可以随机打乱输入
+        img_batch, label_batch = tf.train.shuffle_batch([image, label],batch_size=100, capacity=batch_size*50,min_after_dequeue=batch_size*10)
+        
+        
+        data_train_batch = np.zeros((batch_size,28,28,3))
+        labels_train_batch = np.zeros((batch_size,output_size))
+        train_labes = tf.one_hot(labels_train_batch, output_size, 1, 0)  # label转为 one_hot格式   
 
         #設定代數
-        try:
-            for i in range(100):
+        #try:
+        for i in range(1000):      
+            for epoch in range(batch_size):
+                data_train_batch[epoch], labels_train_batch[epoch] = sess.run([img_batch,label_batch])#在会话中取出image和label           
+                train_step.run(feed_dict={xs: data_train_batch, ys: labels_train_batch, keep_prob: 0.5})  
+        #coord.request_stop()
+        #coord.join(threads)
+                    #if i % 50 == 0:      
+                        #print(accuracy.eval(feed_dict={xs: data_x, ys: data_y, keep_prob: 0.5})) #eval函数类似于重新run一遍，验证，同时修正
+
                 #設定下一筆的訓練資料跑多少(這邊設定是100筆)
-                batch_xs, batch_ys = mnist.train.next_batch(100)
+                #batch_xs, batch_ys = mnist.train.next_batch(100)
                 #訓練樣本打哪來
-                sess.run(train_step, feed_dict={xs: batch_xs, ys: batch_ys, keep_prob: 0.5})
-                if i % 50 == 0:
-                    print(compute_accuracy(mnist.test.images, mnist.test.labels))
-        except tf.errors.OutOfRangeError:
-            print('done!')
-        finally:
-            coord.request_stop()
-        coord.join(threads)
+                #sess.run(train_step, feed_dict={xs: batch_xs, ys: batch_ys, keep_prob: 0.5})
+                #if i % 50 == 0:
+                #    print(compute_accuracy(mnist.test.images, mnist.test.labels))
+        #except tf.errors.OutOfRangeError:
+            #print('done!')
+        #finally:
+            #coord.request_stop()
+        #coord.join(threads)
 
         # Show image that we want to predict
         #plt.imshow(mnist.test.images[0].reshape((28, 28)))

@@ -17,9 +17,9 @@ for index,name in enumerate(classes):
     class_path=cwd+name+'/'
     for img_name in os.listdir(class_path): 
         img_path=class_path+img_name #每一个图片的地址
- 
+        print(img_path)
         img=Image.open(img_path)
-        img= img.resize((128,128))
+        img= img.resize((28,28))
         img_raw=img.tobytes()#将图片转化为二进制格式
         example = tf.train.Example(features=tf.train.Features(feature={
             "label": tf.train.Feature(int64_list=tf.train.Int64List(value=[index])),
