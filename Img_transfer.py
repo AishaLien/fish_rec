@@ -9,9 +9,9 @@ from PIL import Image
 import matplotlib.pyplot as plt 
 import numpy as np
  
-cwd='./dataset/'
-classes={'Brook trout','Clownfish','Goldfish'}  #人为设定3类
-writer= tf.python_io.TFRecordWriter("train_data.tfrecords") #要生成的文件
+cwd='./dataset/test/'
+classes={'Clownfish','White sturgeon'}  #設定有幾個label
+writer= tf.python_io.TFRecordWriter("test_data.tfrecords") #要生成的文件名稱
  
 for index,name in enumerate(classes):
     class_path=cwd+name+'/'
@@ -19,6 +19,7 @@ for index,name in enumerate(classes):
         img_path=class_path+img_name #每一个图片的地址
         print(img_path)
         img=Image.open(img_path)
+        img=img.convert('RGB')
         img= img.resize((28,28))
         img_raw=img.tobytes()#将图片转化为二进制格式
         example = tf.train.Example(features=tf.train.Features(feature={
