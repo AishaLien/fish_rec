@@ -5,13 +5,15 @@ import matplotlib.pyplot as plt
 
 # Parameters
 model_path = "./set_model/model.ckpt"
-filename = './record/train_data.tfrecords'
-filename_test = './record/test_data.tfrecords'
+filename = './record/mn_train_data.tfrecords'
+filename_test = './record/mn_test_data.tfrecords'
 
 #mnist = input_data.read_data_sets('MNIST_data', one_hot=True)
-num_classes = 2 # total classes
+high = 28
+width = 28
+num_classes = 10 # total classes
 batch_size = 100
-channal = 3
+channal = 1
 def read_and_decode(filename, batch_size): 
     # 建立文件名隊列
     filename_queue = tf.train.string_input_producer([filename], 
@@ -28,7 +30,7 @@ def read_and_decode(filename, batch_size):
                        'img_raw': tf.FixedLenFeature([], tf.string), })
     
     image = tf.decode_raw(img_features['img_raw'], tf.uint8)
-    image = tf.reshape(image, [28, 28,channal])
+    image = tf.reshape(image, [width, high,channal])
     
     label = tf.cast(img_features['label'], tf.int64)
 
@@ -73,14 +75,14 @@ def max_pool_2x2(x):
 
 
 ########## 定義placeholder(給圖片預留位置) 這邊給予的是圖片訊息 ##########
-xs = tf.placeholder(tf.float32, [None, 784*channal]) # 28x28
+xs = tf.placeholder(tf.float32, [None, high*width*channal]) # 28x28
 #答案為0~9一共十組
 ys = tf.placeholder(tf.float32, [None,num_classes])
 keep_prob = tf.placeholder(tf.float32)
 
 #將圖片reshape， -1表示會自動算幾組
 #圖片格式: -1為不管目前的維度,28*28的像素點，1/3分別代表黑白/彩色
-x_image = tf.reshape(xs, [-1, 28, 28, channal])
+x_image = tf.reshape(xs, [-1, width, high, channal])
 
 
 
@@ -135,14 +137,14 @@ train_step = tf.train.AdamOptimizer(1e-4).minimize(cross_entropy)
 ####### train
 image_batch , label_batch = read_and_decode(filename, batch_size)
 # 轉換陣列的形狀
-image_batch_train  = tf.reshape(image_batch, [-1, 28*28*channal])
+image_batch_train  = tf.reshape(image_batch, [-1, width*high*channal])
 # 把 Label 轉換成獨熱編碼
 label_batch_train = tf.one_hot(label_batch, num_classes)
 
 ####### test
 test_image_batch,test_label_batch = read_and_decode(filename_test, batch_size)
 # 轉換陣列的形狀
-image_batch_test = tf.reshape(test_image_batch, [-1, 28*28*channal])
+image_batch_test = tf.reshape(test_image_batch, [-1, width*high*channal])
 # 把 Label 轉換成獨熱編碼
 label_batch_test = tf.one_hot(test_label_batch,num_classes)
 
@@ -171,7 +173,7 @@ with tf.Session() as sess:
         #有關dropout的相關資訊可以參考這篇
         try:
             #設定代數
-            for i in range(10000):
+            for i in range(1000):
                 #設定下一筆的訓練資料跑多少(這邊設定是100筆)
                 batch_x, batch_y = sess.run([image_batch_train, label_batch_train])
                 test_batch_x, test_batch_y = sess.run([image_batch_test, label_batch_test])
